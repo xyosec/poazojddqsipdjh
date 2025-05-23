@@ -1,0 +1,625 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<script type="text/javascript">
+		var dataComposer = [];
+		window.abTestURL = "";
+	</script>
+	
+		<meta charset="UTF-8">
+		<meta name="apple-mobile-web-app-capable" content="yes">
+		<meta name="apple-mobile-web-app-status-bar-style" content="default">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, viewport-fit=cover">
+
+		<link rel="profile" href="https://gmpg.org/xfn/11">
+
+		<link rel="apple-touch-icon" sizes="180x180" href="https://www.doctolib.fr/sante/wp-content/themes/common/assets/img/favicons/favicon-primary/apple-touch-icon.png">
+		<link rel="icon" type="image/png" sizes="32x32" href="https://www.doctolib.fr/sante/wp-content/themes/common/assets/img/favicons/favicon-primary/favicon-32x32.png">
+		<link rel="icon" type="image/png" sizes="16x16" href="https://www.doctolib.fr/sante/wp-content/themes/common/assets/img/favicons/favicon-primary/favicon-16x16.png">
+				<link rel="mask-icon" href="https://www.doctolib.fr/sante/wp-content/themes/common/assets/img/favicons/favicon-primary/safari-pinned-tab.svg" color="#107aca">
+		<meta name="msapplication-TileColor" content="#107aca">
+		<meta name="theme-color" content="#ffffff">
+
+				<link rel="preload" as="font" href="https://www.doctolib.fr/sante/wp-content/themes/common/assets/fonts/Roboto-Italic.woff2" type="font/woff2" crossorigin="anonymous">
+				<link rel="preload" as="font" href="https://www.doctolib.fr/sante/wp-content/themes/common/assets/fonts/Roboto-Regular.woff2" type="font/woff2" crossorigin="anonymous">
+				<link rel="preload" as="font" href="https://www.doctolib.fr/sante/wp-content/themes/common/assets/fonts/Roboto-Bold.woff2" type="font/woff2" crossorigin="anonymous">
+				<link rel="preload" as="font" href="https://www.doctolib.fr/sante/wp-content/themes/common/assets/fonts/Montserrat-Bold.woff2" type="font/woff2" crossorigin="anonymous">
+		
+		<script type="application/javascript">
+		var dataComposer = [];
+		dataComposer['utm_url'] = 'https://www.doctolib.fr/sante/consultation-video/?format=html';
+		dataComposer['utm_contentgroup'] = 'b2c_landing_page';
+		</script>
+
+		<meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1">
+	<style>img:is([sizes="auto" i], [sizes^="auto," i]) { contain-intrinsic-size: 3000px 1500px }</style>
+	
+	<title>Consultation vidéo : prenez rendez-vous avec Doctolib</title>
+	<meta name="description" content="Accédez rapidement à un praticien avec la même qualité de soins. Conseils, résultats d'analyse, adaptation de traitement.">
+	<link rel="canonical" href="https://www.doctolib.fr/sante/consultation-video/">
+	<meta property="og:locale" content="fr_FR">
+	<meta property="og:type" content="article">
+	<meta property="og:title" content="Consultation vidéo : prenez rendez-vous avec Doctolib">
+	<meta property="og:description" content="Accédez rapidement à un praticien avec la même qualité de soins. Conseils, résultats d'analyse, adaptation de traitement.">
+	<meta property="og:url" content="https://www.doctolib.fr/sante/consultation-video/">
+	<meta property="og:site_name" content="Doctolib - Santé">
+	<meta property="article:modified_time" content="2024-04-22T15:20:06+00:00">
+	<meta property="og:image" content="https://www.doctolib.fr/sante/wp-content/themes/common/assets/img/doctolib-ogimage.png">
+	<meta property="og:image:width" content="1350">
+	<meta property="og:image:height" content="670">
+	<meta name="twitter:card" content="summary_large_image">
+	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://www.doctolib.fr/sante/consultation-video/","url":"https://www.doctolib.fr/sante/consultation-video/","name":"Consultation vidéo : prenez rendez-vous avec Doctolib","isPartOf":{"@id":"https://www.doctolib.fr/sante/#website"},"datePublished":"2022-07-29T12:30:10+00:00","dateModified":"2024-04-22T15:20:06+00:00","description":"Accédez rapidement à un praticien avec la même qualité de soins. Conseils, résultats d'analyse, adaptation de traitement.","breadcrumb":{"@id":"https://www.doctolib.fr/sante/consultation-video/#breadcrumb"},"inLanguage":"fr-FR","potentialAction":[{"@type":"ReadAction","target":["https://www.doctolib.fr/sante/consultation-video/"]}]},{"@type":"BreadcrumbList","@id":"https://www.doctolib.fr/sante/consultation-video/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://www.doctolib.fr/sante/"},{"@type":"ListItem","position":2,"name":"TCS Landing Page"}]},{"@type":"WebSite","@id":"https://www.doctolib.fr/sante/#website","url":"https://www.doctolib.fr/sante/","name":"Doctolib - Santé","description":"Santé","publisher":{"@id":"https://www.doctolib.fr/sante/#organization"},"inLanguage":"fr-FR"},{"@type":"Organization","@id":"https://www.doctolib.fr/sante/#organization","name":"Doctolib - Santé","url":"https://www.doctolib.fr/sante/","logo":{"@type":"ImageObject","inLanguage":"fr-FR","@id":"https://www.doctolib.fr/sante/#/schema/logo/image/","url":"https://doctolib-b2b-wordpress-assets-prd-aws-de-fra-1.s3.amazonaws.com/uploads/2023/07/organization-logo-5-scaled.jpg","contentUrl":"https://doctolib-b2b-wordpress-assets-prd-aws-de-fra-1.s3.amazonaws.com/uploads/2023/07/organization-logo-5-scaled.jpg","width":2560,"height":850,"caption":"Doctolib - Santé"},"image":{"@id":"https://www.doctolib.fr/sante/#/schema/logo/image/"}}]}</script>
+
+
+<style id="global-styles-inline-css" type="text/css">
+:root{--wp--preset--aspect-ratio--square: 1;--wp--preset--aspect-ratio--4-3: 4/3;--wp--preset--aspect-ratio--3-4: 3/4;--wp--preset--aspect-ratio--3-2: 3/2;--wp--preset--aspect-ratio--2-3: 2/3;--wp--preset--aspect-ratio--16-9: 16/9;--wp--preset--aspect-ratio--9-16: 9/16;--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgba(255, 255, 255, 1), 6px 6px rgba(0, 0, 0, 1);--wp--preset--shadow--crisp: 6px 6px 0px rgba(0, 0, 0, 1);}:where(.is-layout-flex){gap: 0.5em;}:where(.is-layout-grid){gap: 0.5em;}body .is-layout-flex{display: flex;}.is-layout-flex{flex-wrap: wrap;align-items: center;}.is-layout-flex > :is(*, div){margin: 0;}body .is-layout-grid{display: grid;}.is-layout-grid > :is(*, div){margin: 0;}:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}
+:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}
+:root :where(.wp-block-pullquote){font-size: 1.5em;line-height: 1.6;}
+</style>
+<link rel="stylesheet" id="main-style-css" href="https://www.doctolib.fr/sante/wp-content/themes/common/dist/app_b2c.d1ea955b4d7ff8294857.min.css?ver=1736506656" type="text/css" media="all">
+<link media="(max-width: 767px)" rel="preload" as="image" href="https://doctolib-b2b-wordpress-assets-prd-aws-de-fra-1.s3.amazonaws.com/uploads/2021/07/INTERFACE-TCS-consultation-phone-768x768.png">
+							<link media="(max-width: 1023px)" rel="preload" as="image" href="https://doctolib-b2b-wordpress-assets-prd-aws-de-fra-1.s3.amazonaws.com/uploads/2021/07/INTERFACE-TCS-consultation-phone-1024x1024.png">
+							<link media="(min-width: 1024px)" rel="preload" as="image" href="https://doctolib-b2b-wordpress-assets-prd-aws-de-fra-1.s3.amazonaws.com/uploads/2021/07/INTERFACE-TCS-consultation-phone.png">	
+
+	</head>
+<body data-lang="fr" class="page-template-default page page-id-18579 doctolib-b2c in-app-activated" data-auto-speciality-id="" data-page-type="homepage">
+
+		
+		<header data-name="hero-header" id="masthead" class="header-classic">
+			
+<div class="top-bar js-react-header padding-none" data-section-type="Nav bar"></div>
+
+<script type="application/javascript">
+	var dataHeader = [];
+	if (!dataHeader.hasOwnProperty("headerBtoC")) dataHeader.headerBtoC = [];
+	dataHeader["headerBtoC"] = {"isCorpoHeader":false,"isWithButton":false};
+</script>
+		</header>
+
+		
+		<div id="page" class="site">
+
+			<main id="content" class="site-content" role="main">
+						<div class="section">
+			<style>
+	@media (min-width: 1280px) {
+		.section__inner[data-component="ehr_hero"]{
+			min-height: 350px;
+		}
+	}
+</style>
+	
+<div class="section__inner padding-none" data-component="ehr_hero" data-row-index="1" data-section-type="Hero Illu/Video">
+</div>
+
+				</div>
+						<div class="section">
+			<style>
+	@media (min-width: 1280px) {
+		.section__inner[data-component="specialities_solutions"]{
+			min-height: 490px;
+		}
+	}
+</style>
+	
+<div class="section__inner padding-medium" data-component="specialities_solutions" data-row-index="1" data-section-type="Large Cards">
+</div>
+
+				</div>
+						<div class="section">
+			<style>
+	@media (min-width: 1280px) {
+		.section__inner[data-component="footer_tlh"]{
+			min-height: 380px;
+		}
+	}
+</style>
+	
+<div class="section__inner padding-none" data-component="footer_tlh" data-row-index="2" data-section-type="Two cards no image">
+</div>
+
+				</div>
+						<div class="section">
+			<style>
+	@media (min-width: 1280px) {
+		.section__inner[data-component="vertical_tabs"]{
+			min-height: 400px;
+		}
+	}
+</style>
+	
+<div class="section__inner padding-medium" data-component="vertical_tabs" data-row-index="3" data-section-type="Vertical Tabs">
+</div>
+
+				</div>
+						<div class="section">
+			<style>
+	@media (min-width: 1280px) {
+		.section__inner[data-component="cta_banner"]{
+			min-height: 40px;
+		}
+	}
+</style>
+	
+<div class="section__inner padding-none" data-component="cta_banner" data-row-index="4" data-section-type="CTA No Background">
+</div>
+
+				</div>
+						<div class="section">
+			<style>
+	@media (min-width: 1280px) {
+		.section__inner[data-component="keyfigures"]{
+			min-height: 104px;
+		}
+	}
+</style>
+	
+<div class="section__inner padding-medium" data-component="keyfigures" data-row-index="5" data-section-type="Key Figures">
+</div>
+
+				</div>
+						<div class="section">
+			<style>
+	@media (min-width: 1280px) {
+		.section__inner[data-component="faq"]{
+			min-height: 40px;
+		}
+	}
+</style>
+	
+<div class="section__inner padding-none" data-component="faq" data-row-index="6" data-section-type="FAQ">
+</div>
+
+	<script type="application/ld+json">
+{
+	"@context": "https://schema.org",
+	"@type": "FAQPage",
+	"@id": "https://www.doctolib.fr/sante/consultation-video/",
+	"mainEntity": [
+			{
+			"@type": "Question",
+			"name": "Chez le médecin généraliste ",
+			"acceptedAnswer": {
+				"@type": "Answer",
+				"text": "Diagnostic et suivi
+
+
+Interprétation des résultats d&rsquo;examens ou de bilans biologiques
+Coordination des soins : orientation vers un spécialiste, réévaluation de traitement prescrit par un spécialiste, &#8230;
+Démarches administratives si le patient a déjà été examiné : arrêt de travail, &#8230;
+Suivi de maladies chroniques et adaptation de traitement : diabète, asthme et BPCO, maladie métabolique ou endocrinienne, &#8230;
+Infections urinaires ou génitales : cystites, pertes vaginales anormales, …
+Suivi d&rsquo;un traitement préventif des risques cardio-vasculaires
+Suivi psychologique
+Suivi de sevrage : alcool, tabac, &#8230;
+Suivi diététique (avec ou sans problème de poids)
+Suivi d&rsquo;un arrêt maladie
+Suivi d&rsquo;un accident du travail ou d&rsquo;une maladie professionnelle
+
+
+&nbsp;
+
+Enfant et adolescent
+
+
+Suivi du nourrisson entre deux consultations physiques : conseils sur l&rsquo;allaitement ou sur l&rsquo;alimentation, &#8230;
+Prise en charge et suivi d&rsquo;une acné
+Suivi psychologique
+
+
+&nbsp;
+
+Sexualité
+
+
+Demande et suivi de bilan biologique pour le dépistage d&rsquo;infections sexuellement transmissibles (IST)
+Obtention d&rsquo;informations sur les problématiques liées à la sexualité
+Suivi d&rsquo;un choix de contraception
+Suivi d&rsquo;une dysménorrhée (douleur de règles) ou de troubles du cycle hormonal
+Préparation d&rsquo;un projet de grossesse
+
+
+&nbsp;
+
+
+COVID-19
+
+
+1ère consultation des patients symptomatiques&nbsp;
+Ordonnance d&rsquo;un test de dépistage du COVID-19
+Suivi et prise en charge à domicile pour les cas COVID-positifs
+Conseil pour les « cas contact » (information et démarches)
+
+&nbsp;
+Ces motifs de consultation sont donnés à titre d’exemple et ont été mentionnés par une majorité de professionnels de santé de cette spécialité utilisant la consultation vidéo (étude réalisée par Doctolib entre le 5 et le 15 mai 2020). En cas de doute, seul un professionnel de santé pourra juger de la pertinence d’une consultation vidéo.
+
+
+
+
+
+"
+			}
+		}
+		,		{
+			"@type": "Question",
+			"name": "Chez le pédiatre",
+			"acceptedAnswer": {
+				"@type": "Answer",
+				"text": "
+
+Diagnostic et suivi
+
+
+Diagnostic en cas de maladie infectieuse commune et typique : varicelle, gastroentérite, &#8230;
+Diagnostic dermatologique suite à des éruptions cutanées : roséole, eczéma, …
+Suivi de maladies rhino-pharyngées ou ORL en l&rsquo;absence de fièvre : bronchiolite, &#8230;
+Suivi et adaptation d&rsquo;un traitement après une consultation physique : asthme, hyperréactivité bronchique, allergies, &#8230;
+Interprétation de résultats d&rsquo;analyse : examen des urines, examen sanguin, …
+
+
+
+
+&nbsp;
+Conseils et informations
+
+
+Guidance parentale
+Suivi diététique de l&rsquo;enfant (avec ou sans problème de poids)
+Conseils sur l&rsquo;allaitement maternel
+Conseils et prescription de vaccins
+Soutien psychologique
+Troubles du sommeil
+Troubles de l&rsquo;alimentation
+
+&nbsp;
+Ces motifs de consultation sont donnés à titre d’exemple et ont été mentionnés par une majorité de professionnels de santé de cette spécialité utilisant la consultation vidéo (étude réalisée par Doctolib entre le 5 et le 15 mai 2020). En cas de doute, seul un professionnel de santé pourra juger de la pertinence d’une consultation vidéo.
+
+
+
+"
+			}
+		}
+		,		{
+			"@type": "Question",
+			"name": "Chez le gynécologue",
+			"acceptedAnswer": {
+				"@type": "Answer",
+				"text": "
+
+
+
+Suivi gynécologique
+
+Interprétation des résultats d&rsquo;examens complémentaires : examen de biologie, test de dépistage du cancer du col de l’utérus, biopsie, imagerie
+Ajustement de traitement : contraception, traitement hormonal de ménopause, traitement d’infertilité, traitement de l’hirsutisme, traitement de l’endométriose
+Suivi des bêta-HCG
+Prise en charge des mycoses et des infections urinaires basses sans fièvre
+Prescription des examens et traitements des IST du ou des partenaires s’ils sont asymptomatiques
+Consultation de préparation et d’informations avant une consultation en cabinet pour une nouvelle patiente : pose d’un stérilet, colposcopie
+
+&nbsp;
+Santé sexuelle
+
+Renouvellement d’une contraception (pilule, patch, anneau)
+Consultation d’information et prévention sur la sexualité : dépistage des infections sexuellement transmissibles, prévention des violences sexuelles, déroulement d’une consultation gynécologique présentielle
+1ère consultation de contraception chez une jeune femme ou un jeune homme de moins de 26 ans. Cette consultation devra être suivie d’une consultation présentielle dans un délai de 6 mois maximum.
+Interruption volontaire de grossesse (IVG) médicamenteuse
+Consultation de préparation d’une IVG chirurgicale
+
+&nbsp;
+Fertilité
+
+Consultation initiale dans le cadre d’un désir de grossesse : conseils, premier bilan
+Consultations avec le partenaire dans le cadre d’une infertilité pour prescription du spermogramme et analyse de résultats
+Consultation d’information dans le cadre d’une demande de préservation sociétale de la fertilité
+Traitement et suivi dans le cadre d’une Procréation Médicalement Assistée (PMA)
+Traitement et suivi de patients dans le cadre d’une infertilité
+
+&nbsp;
+Grossesse
+
+Consultation pré-conceptionnelle chez une femme suivie n’ayant pas de plainte particulière ou de maladie chronique
+Entretien prénatal précoce
+Dépistage de la trisomie 21 justifiant un 2ème test
+Prolongation d’arrêt de travail
+Prise en charge du diabète gestationnel : suivi glycémique, adaptation de l’insulino-thérapie et éducation thérapeutique
+Consultation post-natale : contraception, rééducation, consultation dans les 2 mois qui suivent l’accouchement
+Entretien post-natal précoce (entre les 4e et 8e semaines qui suivent l’accouchement)
+
+
+
+
+
+
+
+
+
+
+&nbsp;
+Cas d&rsquo;usage validés par la Fédération Nationale des Collèges de Gynécologie Médicale.
+
+
+
+
+
+
+
+
+
+
+
+"
+			}
+		}
+		,		{
+			"@type": "Question",
+			"name": "Chez le dermatologue",
+			"acceptedAnswer": {
+				"@type": "Answer",
+				"text": "
+
+Diagnostic et suivi
+
+
+Maladies chroniques : acné, eczéma, mycose, psoriasis, ulcère, &#8230;
+Maladies saisonnières : allergies, engelure, lucite estivale, pityriasis versicolor, …
+Symptômes cutanés du COVID-19
+
+&nbsp;
+
+
+
+Prescription et/ou interprétation d&rsquo;examens complémentaires
+
+
+Bilan biologique
+Bilan hormonal
+Échographie
+
+&nbsp;
+
+
+
+Conseils et informations
+
+
+Protection contre les UV
+Soins quotidiens
+
+&nbsp;
+Ces motifs de consultation sont donnés à titre d’exemple et ont été mentionnés par une majorité de professionnels de santé de cette spécialité utilisant la consultation vidéo (étude réalisée par Doctolib entre le 5 et le 15 mai 2020). En cas de doute, seul un professionnel de santé pourra juger de la pertinence d’une consultation vidéo.
+
+
+
+"
+			}
+		}
+		,		{
+			"@type": "Question",
+			"name": "Chez la sage-femme",
+			"acceptedAnswer": {
+				"@type": "Answer",
+				"text": "
+Suivi gynécologique
+
+
+Obtention d&rsquo;informations sur des problématiques liées à la gynécologie
+Demande de bilan biologique pour le dépistage d&rsquo;infections sexuellement transmissibles
+Suivi d&rsquo;examens
+
+&nbsp;
+
+
+
+Contraception
+
+
+Renouvellement de prescription
+Suivi d&rsquo;un choix de contraception
+Conseils pour contraception hormonale ou à long terme et réversible (LARC)
+Prévention
+
+&nbsp;
+
+
+
+Grossesse
+
+
+Préparation d&rsquo;un projet de grossesse
+Consultation de début de grossesse
+Conseils et informations entre 2 consultations de suivi
+Séances de préparation à la naissance et à la parentalité
+
+&nbsp;
+
+Suivi post-natal
+
+
+Consultation d&rsquo;allaitement
+1ère séance de rééducation du périnée
+
+&nbsp;
+Ces motifs de consultation sont donnés à titre d’exemple et ont été mentionnés par une majorité de professionnels de santé de cette spécialité utilisant la consultation vidéo (étude réalisée par Doctolib entre le 5 et le 15 mai 2020). En cas de doute, seul un professionnel de santé pourra juger de la pertinence d’une consultation vidéo.
+
+
+"
+			}
+		}
+			]
+}
+</script>
+			</div>
+						<div class="section">
+			
+<div class="section__inner padding-medium" data-component="faq" data-row-index="7" data-section-type="FAQ">
+</div>
+
+	<script type="application/ld+json">
+{
+	"@context": "https://schema.org",
+	"@type": "FAQPage",
+	"@id": "https://www.doctolib.fr/sante/consultation-video/",
+	"mainEntity": [
+			{
+			"@type": "Question",
+			"name": "Par quel moyen peut-on faire une consultation vidéo via Doctolib ? ",
+			"acceptedAnswer": {
+				"@type": "Answer",
+				"text": "Vous pouvez réaliser votre consultation à distance de votre ordinateur à condition qu’il soit équipé d&rsquo;une webcam, de votre tablette ou encore de votre smartphone.
+Sur votre tablette et smartphone, vous pouvez utiliser l’application Doctolib ou votre navigateur internet selon ce que vous préférez.
+"
+			}
+		}
+		,		{
+			"@type": "Question",
+			"name": "Comment réserver une consultation vidéo via Doctolib ? ",
+			"acceptedAnswer": {
+				"@type": "Answer",
+				"text": "Afin de programmer un rendez-vous vidéo avec un praticien, assurez-vous d&rsquo;avoir créé un compte sur Doctolib pour pouvoir réserver le créneau horaire de votre choix dans son agenda. Il est fortement recommandé d&rsquo;installer l&rsquo;application mobile Doctolib, disponible sur Android&nbsp;et&nbsp;iOS.
+&nbsp;
+1. Rendez-vous sur la page d&rsquo;accueil de Doctolib et effectuez une recherche de la spécialité souhaitée dans votre commune.
+2. Les praticiens proposant la consultation vidéo verront s&rsquo;afficher une icône « caméra » sur leur fiche profil. Vous pouvez également préciser la recherche grâce au filtre “Consultation vidéo” disponible.
+3. Une fois le professionnel sélectionné, cliquez sur “En vidéo” à l&rsquo;étape de choix du type de consultation. Vous devrez alors renseigner le motif de consultation (“consultation vidéo &#8211; patient suivi” ou “consultation vidéo &#8211; nouveau patient”) , puis une empreinte bancaire pour le paiement à posteriori de la consultation vidéo, et c&rsquo;est validé.
+&nbsp;
+Cliquez-ici pour&nbsp;tout savoir sur le paiement en ligne d&rsquo;une consultation vidéo sur Doctolib.
+&nbsp;
+La consultation vidéo a lieu directement sur la plateforme sécurisée de Doctolib. Vous n&rsquo;avez pas besoin de télécharger d&rsquo;autre application. Doctolib représente une alternative sécurisée aux consultations vidéo via d&rsquo;autres services comme WhatsApp ou Skype par exemple.
+"
+			}
+		}
+		,		{
+			"@type": "Question",
+			"name": "Comment se déroule une consultation vidéo ? ",
+			"acceptedAnswer": {
+				"@type": "Answer",
+				"text": "
+Au préalable, vous devez vous assurer de disposer d&rsquo;un dispositif équipé d&rsquo;une caméra, d&rsquo;un micro, d&rsquo;une connexion internet stable et de suffisamment de batterie. Veillez également à ce que l&rsquo;application utilisée (application mobile ou navigateur internet) ait bien accès au micro et à la caméra de l&rsquo;appareil.
+Installez-vous dans un endroit calme et à l&rsquo;abri de personnes susceptibles d&rsquo;entendre ce que vous avez à dire à votre praticien.
+Vous pourrez rejoindre la consultation vidéo depuis l&rsquo;onglet « Rendez-vous » de votre compte Doctolib ou en cliquant simplement sur le lien reçu par SMS 10 minutes avant le début de votre consultation. Vous rejoindrez alors la salle d&rsquo;attente virtuelle du professionnel.
+Une fois disponible, il rejoindra votre session et la consultation vidéo démarrera. S&rsquo;il a du retard, il recevra des alertes fréquentes pour lui rappeler votre rendez-vous et pourra vous informer d&rsquo;une estimation du temps de retard. Ensuite, la consultation se déroulera comme si vous étiez au cabinet.
+Une fois la téléconsultation terminée, vous pouvez raccrocher. Le médecin se chargera du prélèvement bancaire et vous recevrez votre ordonnance directement dans votre espace personnel et sécurisé Doctolib.
+
+&nbsp;
+Plus d&rsquo;information sur les équipements et conditions adéquats à la bonne réalisation d&rsquo;une consultation vidéo&nbsp;et&nbsp;ici pour savoir comment consulter et partager un document envoyé par votre praticien.
+"
+			}
+		}
+		,		{
+			"@type": "Question",
+			"name": "Combien coûte une consultation vidéo ? ",
+			"acceptedAnswer": {
+				"@type": "Answer",
+				"text": "Une téléconsultation est facturée au même tarif qu’une consultation en face-à-face. Soit, pour un médecin, entre 23 € et 58,50 € selon la spécialité et le secteur d’exercice. 
+&nbsp;
+Les médecins libéraux ont la possibilité de facturer un dépassement d’honoraires dans les conditions habituelles (secteur 2, etc.).
+&nbsp;
+Les règles de prise en charge médicale sont les mêmes que pour une consultation en présentiel, avec les mêmes taux (70 %). De même, les patients bénéficiant d&rsquo;une couverture santé (Couverture maladie universelle complémentaire &#8211; CMU-C par exemple) auront droit à une prise en charge complète de leur consultation médicale en ligne.
+"
+			}
+		}
+		,		{
+			"@type": "Question",
+			"name": "Comment fonctionne le remboursement ?",
+			"acceptedAnswer": {
+				"@type": "Answer",
+				"text": "Afin de bénéficier du remboursement, le patient doit s&rsquo;assurer que la consultation vidéo s&rsquo;effectue dans le cadre de son parcours de soins, dans une logique d&rsquo;ancrage territorial et que son suivi alterne consultations présentielle et à distance. 
+&nbsp;
+Les conditions d&rsquo;une consultation physique s&rsquo;appliquant, le patient sera remboursé de l&rsquo;ordre de 70% par l&rsquo;Assurance Maladie, et 30% par la complémentaire santé (mutuelle). Pour les soins relevant du tiers payant, la téléconsultation est prise en charge à 100%.
+&nbsp;
+À l&rsquo;issue de votre rendez-vous de consultation vidéo, lorsque l&rsquo;acte s&rsquo;inscrit dans le cadre réglementaire du remboursement :
+
+Si son logiciel le permet, votre médecin fera un feuille de soin électronique (FSE)&nbsp;qui sera automatiquement envoyée à l&rsquo;Assurance Maladie.
+S&rsquo;il ne peut pas faire de feuille de soin électronique, il vous partagera une feuille de soin papier que vous devrez ensuite envoyer à l&rsquo;Assurance Maladie.
+
+"
+			}
+		}
+		,		{
+			"@type": "Question",
+			"name": "Comment payer une téléconsultation sur Doctolib ?",
+			"acceptedAnswer": {
+				"@type": "Answer",
+				"text": "Doctolib utilise une solution spécialisée dans le règlement en ligne. Vos coordonnées bancaires sont complètement sécurisées lorsque vous réglez une consultation vidéo sur Doctolib.
+&nbsp;
+Avant de démarrer la consultation, vos informations bancaires vous seront demandées afin de réaliser une pré-autorisation de paiement d&rsquo;un montant égal au tarif de la consultation vidéo. Aucun prélèvement ne sera effectué avant la fin de la consultation vidéo. Ainsi, dès la fin de la session, le médecin pourra effectuer un prélèvement dont le montant ne pourra dépasser celui que vous avez autorisé lors de la pré-autorisation. Si la consultation n&rsquo;a finalement pas lieu, vous n&rsquo;aurez bien sûr rien à payer.
+Cliquez-ici pour plus d&rsquo;informations sur le paiement de la consultation vidéo.
+&nbsp;
+Si vous n’avez pas de carte bancaire ou que vous n’avancez pas vos frais médicaux, n’hésitez pas à contacter directement votre praticien pour convenir d’un rendez-vous sans avance de frais.
+"
+			}
+		}
+		,		{
+			"@type": "Question",
+			"name": "Mon médecin a transformé mon rendez-vous au cabinet en vidéo. Que dois-je faire ? ",
+			"acceptedAnswer": {
+				"@type": "Answer",
+				"text": "Pensez à confirmer votre consultation vidéo en suivant les indications contenues dans l’email et renseignez vos coordonnées bancaires. Pas d’inquiétude, vous ne serez débité qu’une fois la consultation réalisée.
+Votre médecin se charge alors de transmettre les informations à l&rsquo;Assurance Maladie pour le remboursement. Vous n&rsquo;avez rien à faire !
+&nbsp;
+Depuis votre compte Doctolib, vous pourrez transmettre votre ordonnance en toute sécurité à votre pharmacie.
+"
+			}
+		}
+		,		{
+			"@type": "Question",
+			"name": "Je souhaite convertir mon rendez-vous physique en consultation vidéo. Comment faire ? ",
+			"acceptedAnswer": {
+				"@type": "Answer",
+				"text": "En cas d&rsquo;impossibilité de vous rendre au cabinet et si votre praticien propose la consultation vidéo, vous pouvez transformer votre rendez-vous physique en téléconsultation.
+Pour ce faire, sélectionnez le rendez-vous en question depuis l&rsquo;onglet « Rendez-vous”. Si votre rendez-vous est éligible à la consultation vidéo, vous pourrez cliquer sur “Convertir en consultation vidéo”. Si cette option n’est pas disponible, vous ne pouvez pas convertir votre rendez-vous en consultation vidéo.
+"
+			}
+		}
+			]
+}
+</script>
+			</div>
+						<div class="section">
+			<style>
+	@media (min-width: 1280px) {
+		.section__inner[data-component="cta_section"]{
+			min-height: 296px;
+		}
+	}
+</style>
+	
+<div class="section__inner padding-none" data-component="cta_section" data-row-index="8" data-section-type="CTA Background">
+</div>
+
+				</div>
+			<div class="footnotes padding-none" data-section-type="Footnotes">
+	<div class="footnotes__content container container--large">
+		<p>Auteur : <a href="https://doctolibpatient.zendesk.com/hc/fr/articles/6748237253532">équipe Doctolib</a> – septembre 2022</p>
+	</div>
+</div>
+
+	</main>
+
+	<footer class="section">
+		
+<div class="section__inner padding-none" data-component="footer" data-row-index="0" data-section-type="Footer">
+</div>
+
+		</footer>
+</div>
+
+<script type="text/javascript" src="https://www.doctolib.fr/sante/wp-includes/js/jquery/jquery.min.js?ver=3.7.1" id="jquery-core-js"></script>
+<script type="text/javascript" id="jquery-core-js-after">
+/* <![CDATA[ */
+$ = jQuery;
+/* ]]> */
+</script>
+<script type="text/javascript" id="main-js-extra">
+/* <![CDATA[ */
+var PT_Ajax = {"ajaxurl":"https:\/\/www.doctolib.fr/sante\/wp-admin\/admin-ajax.php","nextNonce":"abc381d69c"};
+var acfData = {"designSystem":"b2c","environment":"prod","language":"fr","postStatus":"","enableSentry":"false","website":"health_hub","screeb_website_id":"dc490c5d-0e43-4506-81a1-d69219571434","endpointDomain":"www.doctolib","endpointProDomain":"pro.doctolib","endpointTempDomain":"pro.doctolib","misc":{"postUrl":"https:\/\/www.doctolib.fr/sante\/consultation-video\/?format=html","postTitle":"TCS Landing Page - Doctolib - Sant\u00e9"},"homepage_url":"https:\/\/www.doctolib.fr/sante","partnerstack":{"conversion_url":"https:\/\/partnerlinks.io\/conversion\/xid","token":"eZkogjxzK4iY2bWibhdBX79Onv8JkGkS"},"specialities_solutions":{"1":{"acf_fc_layout":"specialities_solutions","disable_layout":false,"padding":"medium","name_into_subnav":"","icon_into_subnav":false,"show_cta":false,"cta_type_link":"general_link","ctasection_cta-title":"","ctasection_cta-url":null,"ctasection_cta__external":"","ctasection_cta__anchor":"","tcs":true,"speciality_place":"","prefilled_speciality":false,"picked_specialities":[],"redirection_url":null,"screeb_quiz_id":"","general_link":null,"prefilled_location":"","ctasection_cta_secondary_check":false,"ctasection_cta_secondary_type_of_link":"general_link","ctasection_cta_secondary_label":"","ctasection_cta_secondary_page_link":null,"ctasection_cta_secondary_url":"","ctasection_cta_secondary_anchor":"","second_tcs":true,"second_speciality_place":"","second_prefilled_speciality":false,"second_picked_specialities":[],"second_redirection_url":null,"second_screeb_quiz_id":"","second_general_link":null,"second_prefilled_location":"","section_title":"Comment \u00e7a marche ?","section_subtitle":"","see_more_text":"","see_less_text":"","tabs":[{"tab_title":"","nb_per_row":false,"fold":true,"cards":[{"card_illustration":{"ID":22321,"id":22321,"title":"Scenes on couch_POV-booking","filename":"scenes-on-couch-pov-booking.png","filesize":199061,"url":"https:\/\/doctolib-b2b-wordpress-assets-prd-aws-de-fra-1.s3.amazonaws.com\/uploads\/2022\/07\/scenes-on-couch-pov-booking.png","link":"https:\/\/www.doctolib.fr/sante\/consultation-video\/attachment\/scenes-on-couch-pov-booking-2\/","alt":"","author":"62","description":"","caption":"","name":"scenes-on-couch-pov-booking-2","status":"inherit","uploaded_to":18579,"date":"2022-07-26 13:39:14","modified":"2022-07-26 13:39:14","menu_order":0,"mime_type":"image\/png","type":"image","subtype":"png","icon":"https:\/\/www.doctolib.fr/sante\/wp-includes\/images\/media\/default.png","width":1200,"height":1200,"sizes":{"thumbnail":"https:\/\/doctolib-b2b-wordpress-assets-prd-aws-de-fra-1.s3.amazonaws.com\/uploads\/2022\/07\/scenes-on-couch-pov-booking.png","thumbnail-width":96,"thumbnail-height":96,"medium":"https:\/\/doctolib-b2b-wordpress-assets-prd-aws-de-fra-1.s3.amazonaws.com\/uploads\/2022\/07\/scenes-on-couch-pov-booking.png","medium-width":1200,"medium-height":1200,"medium_large":"https:\/\/doctolib-b2b-wordpress-assets-prd-aws-de-fra-1.s3.amazonaws.com\/uploads\/2022\/07\/scenes-on-couch-pov-booking-768x768.png","medium_large-width":768,"medium_large-height":768,"large":"https:\/\/doctolib-b2b-wordpress-assets-prd-aws-de-fra-1.s3.amazonaws.com\/uploads\/2022\/07\/scenes-on-couch-pov-booking-1024x1024.png","large-width":1024,"large-height":1024,"1536x1536":"https:\/\/doctolib-b2b-wordpress-assets-prd-aws-de-fra-1.s3.amazonaws.com\/uploads\/2022\/07\/scenes-on-couch-pov-booking.png","1536x1536-width":1200,"1536x1536-height":1200,"2048x2048":"https:\/\/doctolib-b2b-wordpress-assets-prd-aws-de-fra-1.s3.amazonaws.com\/uploads\/2022\/07\/scenes-on-couch-pov-booking.png","2048x2048-width":1200,"2048x2048-height":1200,"100x100":"https:\/\/doctolib-b2b-wordpress-assets-prd-aws-de-fra-1.s3.amazonaws.com\/uploads\/2022\/07\/scenes-on-couch-pov-booking-200x200.png","100x100-width":200,"100x100-height":200}},"card_title":"1. Prenez un rendez-vous","card_description":"Si un praticien propose la consultation vid\u00e9o, il suffit de s\u00e9lectionner le mode <b>\u201cen vid\u00e9o\u201d<\/b> lors des \u00e9tapes de prise de rendez-vous. Si besoin, vous pourrez partager des documents en amont de la consultation.","card_list":false,"card_link":{"type_of_link":"page","cta_text":"","page_link":"","url":"","anchor":"","third_tcs":true,"third_speciality_place":"","third_prefilled_speciality":false,"third_picked_specialities":[],"third_redirection_url":null,"third_screeb_quiz_id":"","third_general_link":null,"third_prefilled_location":""}},{"card_illustration":{"ID":22322,"id":22322,"title":"Scenes on couch_POV-TLC-01 (2)","filename":"scenes-on-couch-pov-tlc-01-2.png","filesize":162099,"url":"https:\/\/doctolib-b2b-wordpress-assets-prd-aws-de-fra-1.s3.amazonaws.com\/uploads\/2022\/07\/scenes-on-couch-pov-tlc-01-2.png","link":"https:\/\/www.doctolib.fr/sante\/consultation-video\/attachment\/scenes-on-couch-pov-tlc-01-2\/","alt":"","author":"62","description":"","caption":"","name":"scenes-on-couch-pov-tlc-01-2","status":"inherit","uploaded_to":18579,"date":"2022-07-26 13:39:18","modified":"2022-07-26 13:39:18","menu_order":0,"mime_type":"image\/png","type":"image","subtype":"png","icon":"https:\/\/www.doctolib.fr/sante\/wp-includes\/images\/media\/default.png","width":1200,"height":1200,"sizes":{"thumbnail":"https:\/\/doctolib-b2b-wordpress-assets-prd-aws-de-fra-1.s3.amazonaws.com\/uploads\/2022\/07\/scenes-on-couch-pov-tlc-01-2.png","thumbnail-width":96,"thumbnail-height":96,"medium":"https:\/\/doctolib-b2b-wordpress-assets-prd-aws-de-fra-1.s3.amazonaws.com\/uploads\/2022\/07\/scenes-on-couch-pov-tlc-01-2.png","medium-width":1200,"medium-height":1200,"medium_large":"https:\/\/doctolib-b2b-wordpress-assets-prd-aws-de-fra-1.s3.amazonaws.com\/uploads\/2022\/07\/scenes-on-couch-pov-tlc-01-2-768x768.png","medium_large-width":768,"medium_large-height":768,"large":"https:\/\/doctolib-b2b-wordpress-assets-prd-aws-de-fra-1.s3.amazonaws.com\/uploads\/2022\/07\/scenes-on-couch-pov-tlc-01-2-1024x1024.png","large-width":1024,"large-height":1024,"1536x1536":"https:\/\/doctolib-b2b-wordpress-assets-prd-aws-de-fra-1.s3.amazonaws.com\/uploads\/2022\/07\/scenes-on-couch-pov-tlc-01-2.png","1536x1536-width":1200,"1536x1536-height":1200,"2048x2048":"https:\/\/doctolib-b2b-wordpress-assets-prd-aws-de-fra-1.s3.amazonaws.com\/uploads\/2022\/07\/scenes-on-couch-pov-tlc-01-2.png","2048x2048-width":1200,"2048x2048-height":1200,"100x100":"https:\/\/doctolib-b2b-wordpress-assets-prd-aws-de-fra-1.s3.amazonaws.com\/uploads\/2022\/07\/scenes-on-couch-pov-tlc-01-2-200x200.png","100x100-width":200,"100x100-height":200}},"card_title":"2. Connectez-vous le jour J","card_description":"Rejoignez la consultation depuis l\u2019onglet \"Rendez-vous\" ou en cliquant sur le lien que vous recevrez par <b>e-mail ou SMS 10 minutes avant<\/b> le rendez-vous.","card_list":false,"card_link":{"type_of_link":"page","cta_text":"","page_link":"","url":"","anchor":"","third_tcs":true,"third_speciality_place":"","third_prefilled_speciality":false,"third_picked_specialities":[],"third_redirection_url":null,"third_screeb_quiz_id":"","third_general_link":null,"third_prefilled_location":""}},{"card_illustration":{"ID":22320,"id":22320,"title":"Privacy_Privacy-15","filename":"privacy-privacy-15.png","filesize":210931,"url":"https:\/\/doctolib-b2b-wordpress-assets-prd-aws-de-fra-1.s3.amazonaws.com\/uploads\/2022\/07\/privacy-privacy-15.png","link":"https:\/\/www.doctolib.fr/sante\/consultation-video\/attachment\/privacy-privacy-15\/","alt":"","author":"62","description":"","caption":"","name":"privacy-privacy-15","status":"inherit","uploaded_to":18579,"date":"2022-07-26 13:39:09","modified":"2022-07-26 13:39:09","menu_order":0,"mime_type":"image\/png","type":"image","subtype":"png","icon":"https:\/\/www.doctolib.fr/sante\/wp-includes\/images\/media\/default.png","width":1200,"height":1200,"sizes":{"thumbnail":"https:\/\/doctolib-b2b-wordpress-assets-prd-aws-de-fra-1.s3.amazonaws.com\/uploads\/2022\/07\/privacy-privacy-15.png","thumbnail-width":96,"thumbnail-height":96,"medium":"https:\/\/doctolib-b2b-wordpress-assets-prd-aws-de-fra-1.s3.amazonaws.com\/uploads\/2022\/07\/privacy-privacy-15.png","medium-width":1200,"medium-height":1200,"medium_large":"https:\/\/doctolib-b2b-wordpress-assets-prd-aws-de-fra-1.s3.amazonaws.com\/uploads\/2022\/07\/privacy-privacy-15-768x768.png","medium_large-width":768,"medium_large-height":768,"large":"https:\/\/doctolib-b2b-wordpress-assets-prd-aws-de-fra-1.s3.amazonaws.com\/uploads\/2022\/07\/privacy-privacy-15-1024x1024.png","large-width":1024,"large-height":1024,"1536x1536":"https:\/\/doctolib-b2b-wordpress-assets-prd-aws-de-fra-1.s3.amazonaws.com\/uploads\/2022\/07\/privacy-privacy-15.png","1536x1536-width":1200,"1536x1536-height":1200,"2048x2048":"https:\/\/doctolib-b2b-wordpress-assets-prd-aws-de-fra-1.s3.amazonaws.com\/uploads\/2022\/07\/privacy-privacy-15.png","2048x2048-width":1200,"2048x2048-height":1200,"100x100":"https:\/\/doctolib-b2b-wordpress-assets-prd-aws-de-fra-1.s3.amazonaws.com\/uploads\/2022\/07\/privacy-privacy-15-200x200.png","100x100-width":200,"100x100-height":200}},"card_title":"3. R\u00e9cup\u00e9rez vos documents","card_description":"Acc\u00e9dez \u00e0 vos ordonnances depuis l\u2019onglet <b>\u201cDocuments\u201d<\/b>. Vous pouvez aussi les partager directement \u00e0 votre pharmacie.","card_list":false,"card_link":{"type_of_link":"external","cta_text":"","page_link":null,"url":"","anchor":"","third_tcs":true,"third_speciality_place":"","third_prefilled_speciality":false,"third_picked_specialities":[],"third_redirection_url":null,"third_screeb_quiz_id":"","third_general_link":null,"third_prefilled_location":""}}]}]}},"footer_tlh":{"2":{"acf_fc_layout":"footer_tlh","disable_layout":false,"padding":"none","name_into_subnav":"","icon_into_subnav":false,"title":"","cards":[{"icon_select":"","title":"Vais-je \u00eatre rembours\u00e9 ?","text":"<p>L&rsquo;Assurance Maladie rembourse les consultations vid\u00e9o avec un m\u00e9decin \u00e0 condition qu&rsquo;elles respectent le parcours de soins, qu&rsquo;elles soient r\u00e9alis\u00e9es avec un m\u00e9decin \u00e0 proximit\u00e9 de votre domicile et en alternance avec des consultations en pr\u00e9sentiel.<\/p>\n","link":"general_link","label":"","page-link":null,"url":"","anchor":"","tcs":true,"speciality_place":"","prefilled_speciality":false,"picked_specialities":[],"redirection_url":null,"screeb_quiz_id":"","general_link":"","prefilled_location":""},{"icon_select":"vital-card","title":"Ai-je besoin de ma carte Vitale ?","text":"<p>Si vous avez d\u00e9j\u00e0 consult\u00e9 votre professionnel de sant\u00e9 \u00e0 son cabinet, il poss\u00e8de les informations de votre carte Vitale. Vous n&rsquo;avez rien \u00e0 faire, c\u2019est lui qui se charge de les transmettre \u00e0 l\u2019Assurance Maladie. Si vous consultez un m\u00e9decin pour la premi\u00e8re fois, vous devrez lui transmettre votre num\u00e9ro de S\u00e9curit\u00e9 sociale pour qu&rsquo;il puisse entamer les d\u00e9marches de remboursement.<\/p>\n","link":"general_link","label":"","page-link":null,"url":"","anchor":"","tcs":true,"speciality_place":"","prefilled_speciality":false,"picked_specialities":[],"redirection_url":null,"screeb_quiz_id":"","general_link":"","prefilled_location":""}]}},"vertical_tabs":{"3":{"acf_fc_layout":"vertical_tabs","disable_layout":false,"padding":"medium","name_into_subnav":"","icon_into_subnav":false,"mode":"compact","section_title":"Quels sont les avantages ?","section_description":"","all_tabs_shown":false,"tabs":[{"acf_fc_layout":"tab","icon_select":"","title":"Un acc\u00e8s plus rapide \u00e0 un praticien","tag":"","description":"","type_of_link":"general_link","cta_label":"","page_link":null,"url":"","anchor":"","tcs":true,"speciality_place":"","prefilled_speciality":false,"picked_specialities":[],"redirection_url":null,"screeb_quiz_id":"","general_link":null,"prefilled_location":"","content":{"image":{"ID":22325,"id":22325,"title":"date &amp; time_calendar-star","filename":"date-time-calendar-star.png","filesize":4874,"url":"https:\/\/doctolib-b2b-wordpress-assets-prd-aws-de-fra-1.s3.amazonaws.com\/uploads\/2022\/07\/date-time-calendar-star.png","link":"https:\/\/www.doctolib.fr/sante\/consultation-video\/attachment\/date-time-calendar-star\/","alt":"","author":"62","description":"","caption":"","name":"date-time-calendar-star","status":"inherit","uploaded_to":18579,"date":"2022-07-26 13:50:14","modified":"2022-07-26 13:50:14","menu_order":0,"mime_type":"image\/png","type":"image","subtype":"png","icon":"https:\/\/www.doctolib.fr/sante\/wp-includes\/images\/media\/default.png","width":400,"height":400,"sizes":{"thumbnail":"https:\/\/doctolib-b2b-wordpress-assets-prd-aws-de-fra-1.s3.amazonaws.com\/uploads\/2022\/07\/date-time-calendar-star.png","thumbnail-width":96,"thumbnail-height":96,"medium":"https:\/\/doctolib-b2b-wordpress-assets-prd-aws-de-fra-1.s3.amazonaws.com\/uploads\/2022\/07\/date-time-calendar-star.png","medium-width":400,"medium-height":400,"medium_large":"https:\/\/doctolib-b2b-wordpress-assets-prd-aws-de-fra-1.s3.amazonaws.com\/uploads\/2022\/07\/date-time-calendar-star.png","medium_large-width":400,"medium_large-height":400,"large":"https:\/\/doctolib-b2b-wordpress-assets-prd-aws-de-fra-1.s3.amazonaws.com\/uploads\/2022\/07\/date-time-calendar-star.png","large-width":400,"large-height":400,"1536x1536":"https:\/\/doctolib-b2b-wordpress-assets-prd-aws-de-fra-1.s3.amazonaws.com\/uploads\/2022\/07\/date-time-calendar-star.png","1536x1536-width":400,"1536x1536-height":400,"2048x2048":"https:\/\/doctolib-b2b-wordpress-assets-prd-aws-de-fra-1.s3.amazonaws.com\/uploads\/2022\/07\/date-time-calendar-star.png","2048x2048-width":400,"2048x2048-height":400,"100x100":"https:\/\/doctolib-b2b-wordpress-assets-prd-aws-de-fra-1.s3.amazonaws.com\/uploads\/2022\/07\/date-time-calendar-star-200x200.png","100x100-width":200,"100x100-height":200}},"title":"Un acc\u00e8s plus rapide \u00e0 un praticien","description":"50% des patients trouvent un rendez-vous pour une consultation vid\u00e9o dans les 2 jours.","type_of_link":"page","cta_label":"","page_link":"","url":"","anchor":"","second_tcs":true,"second_speciality_place":"","second_prefilled_speciality":false,"second_picked_specialities":[],"second_redirection_url":null,"second_screeb_quiz_id":"","second_general_link":null,"second_prefilled_location":""}},{"acf_fc_layout":"tab","icon_select":"","title":"Une qualit\u00e9 m\u00e9dicale reconnue","tag":"","description":"","type_of_link":"general_link","cta_label":"","page_link":null,"url":"","anchor":"","tcs":true,"speciality_place":"","prefilled_speciality":false,"picked_specialities":[],"redirection_url":null,"screeb_quiz_id":"","general_link":null,"prefilled_location":"","content":{"image":{"ID":22324,"id":22324,"title":"alert &amp; info_badge-check","filename":"alert-info-badge-check.png","filesize":9558,"url":"https:\/\/doctolib-b2b-wordpress-assets-prd-aws-de-fra-1.s3.amazonaws.com\/uploads\/2022\/07\/alert-info-badge-check.png","link":"https:\/\/www.doctolib.fr/sante\/consultation-video\/attachment\/alert-info-badge-check\/","alt":"","author":"62","description":"","caption":"","name":"alert-info-badge-check","status":"inherit","uploaded_to":18579,"date":"2022-07-26 13:50:13","modified":"2022-07-26 13:50:13","menu_order":0,"mime_type":"image\/png","type":"image","subtype":"png","icon":"https:\/\/www.doctolib.fr/sante\/wp-includes\/images\/media\/default.png","width":400,"height":400,"sizes":{"thumbnail":"https:\/\/doctolib-b2b-wordpress-assets-prd-aws-de-fra-1.s3.amazonaws.com\/uploads\/2022\/07\/alert-info-badge-check.png","thumbnail-width":96,"thumbnail-height":96,"medium":"https:\/\/doctolib-b2b-wordpress-assets-prd-aws-de-fra-1.s3.amazonaws.com\/uploads\/2022\/07\/alert-info-badge-check.png","medium-width":400,"medium-height":400,"medium_large":"https:\/\/doctolib-b2b-wordpress-assets-prd-aws-de-fra-1.s3.amazonaws.com\/uploads\/2022\/07\/alert-info-badge-check.png","medium_large-width":400,"medium_large-height":400,"large":"https:\/\/doctolib-b2b-wordpress-assets-prd-aws-de-fra-1.s3.amazonaws.com\/uploads\/2022\/07\/alert-info-badge-check.png","large-width":400,"large-height":400,"1536x1536":"https:\/\/doctolib-b2b-wordpress-assets-prd-aws-de-fra-1.s3.amazonaws.com\/uploads\/2022\/07\/alert-info-badge-check.png","1536x1536-width":400,"1536x1536-height":400,"2048x2048":"https:\/\/doctolib-b2b-wordpress-assets-prd-aws-de-fra-1.s3.amazonaws.com\/uploads\/2022\/07\/alert-info-badge-check.png","2048x2048-width":400,"2048x2048-height":400,"100x100":"https:\/\/doctolib-b2b-wordpress-assets-prd-aws-de-fra-1.s3.amazonaws.com\/uploads\/2022\/07\/alert-info-badge-check-200x200.png","100x100-width":200,"100x100-height":200}},"title":"Une qualit\u00e9 m\u00e9dicale reconnue","description":"De nombreux motifs de consultation sont valid\u00e9s par les professionnels de sant\u00e9. Comme en cabinet, la prise en charge en vid\u00e9o est rembours\u00e9e par la s\u00e9curit\u00e9 sociale.","type_of_link":"page","cta_label":"","page_link":"","url":"","anchor":"","second_tcs":true,"second_speciality_place":"","second_prefilled_speciality":false,"second_picked_specialities":[],"second_redirection_url":null,"second_screeb_quiz_id":"","second_general_link":null,"second_prefilled_location":""}},{"acf_fc_layout":"tab","icon_select":"","title":"Un suivi m\u00e9dical int\u00e9gr\u00e9 \u00e0 votre quotidien","tag":"","description":"","type_of_link":"general_link","cta_label":"","page_link":null,"url":"","anchor":"","tcs":true,"speciality_place":"","prefilled_speciality":false,"picked_specialities":[],"redirection_url":null,"screeb_quiz_id":"","general_link":null,"prefilled_location":"","content":{"image":{"ID":22326,"id":22326,"title":"hands_thumbs-up (1)","filename":"hands-thumbs-up-1.png","filesize":6839,"url":"https:\/\/doctolib-b2b-wordpress-assets-prd-aws-de-fra-1.s3.amazonaws.com\/uploads\/2022\/07\/hands-thumbs-up-1.png","link":"https:\/\/www.doctolib.fr/sante\/consultation-video\/attachment\/hands-thumbs-up-1\/","alt":"","author":"62","description":"","caption":"","name":"hands-thumbs-up-1","status":"inherit","uploaded_to":18579,"date":"2022-07-26 13:50:16","modified":"2022-07-26 13:50:16","menu_order":0,"mime_type":"image\/png","type":"image","subtype":"png","icon":"https:\/\/www.doctolib.fr/sante\/wp-includes\/images\/media\/default.png","width":400,"height":400,"sizes":{"thumbnail":"https:\/\/doctolib-b2b-wordpress-assets-prd-aws-de-fra-1.s3.amazonaws.com\/uploads\/2022\/07\/hands-thumbs-up-1.png","thumbnail-width":96,"thumbnail-height":96,"medium":"https:\/\/doctolib-b2b-wordpress-assets-prd-aws-de-fra-1.s3.amazonaws.com\/uploads\/2022\/07\/hands-thumbs-up-1.png","medium-width":400,"medium-height":400,"medium_large":"https:\/\/doctolib-b2b-wordpress-assets-prd-aws-de-fra-1.s3.amazonaws.com\/uploads\/2022\/07\/hands-thumbs-up-1.png","medium_large-width":400,"medium_large-height":400,"large":"https:\/\/doctolib-b2b-wordpress-assets-prd-aws-de-fra-1.s3.amazonaws.com\/uploads\/2022\/07\/hands-thumbs-up-1.png","large-width":400,"large-height":400,"1536x1536":"https:\/\/doctolib-b2b-wordpress-assets-prd-aws-de-fra-1.s3.amazonaws.com\/uploads\/2022\/07\/hands-thumbs-up-1.png","1536x1536-width":400,"1536x1536-height":400,"2048x2048":"https:\/\/doctolib-b2b-wordpress-assets-prd-aws-de-fra-1.s3.amazonaws.com\/uploads\/2022\/07\/hands-thumbs-up-1.png","2048x2048-width":400,"2048x2048-height":400,"100x100":"https:\/\/doctolib-b2b-wordpress-assets-prd-aws-de-fra-1.s3.amazonaws.com\/uploads\/2022\/07\/hands-thumbs-up-1-200x200.png","100x100-width":200,"100x100-height":200}},"title":"Un suivi m\u00e9dical int\u00e9gr\u00e9 \u00e0 votre quotidien","description":"En r\u00e9duisant vos d\u00e9placements et les temps d'attente, la consultation vid\u00e9o facilite la prise de rendez-vous et augmente la fr\u00e9quence de votre suivi.","type_of_link":"page","cta_label":"","page_link":"","url":"","anchor":"","second_tcs":true,"second_speciality_place":"","second_prefilled_speciality":false,"second_picked_specialities":[],"second_redirection_url":null,"second_screeb_quiz_id":"","second_general_link":null,"second_prefilled_location":""}},{"acf_fc_layout":"tab","icon_select":"","title":"Une s\u00e9curit\u00e9 des donn\u00e9es garantie pour pr\u00e9server votre vie priv\u00e9e ","tag":"","description":"","type_of_link":"general_link","cta_label":"","page_link":null,"url":"","anchor":"","tcs":true,"speciality_place":"","prefilled_speciality":false,"picked_specialities":[],"redirection_url":null,"screeb_quiz_id":"","general_link":null,"prefilled_location":"","content":{"image":{"ID":22328,"id":22328,"title":"security_lock","filename":"security-lock.png","filesize":4574,"url":"https:\/\/doctolib-b2b-wordpress-assets-prd-aws-de-fra-1.s3.amazonaws.com\/uploads\/2022\/07\/security-lock.png","link":"https:\/\/www.doctolib.fr/sante\/consultation-video\/attachment\/security-lock\/","alt":"","author":"62","description":"","caption":"","name":"security-lock","status":"inherit","uploaded_to":18579,"date":"2022-07-26 13:50:25","modified":"2022-07-26 13:50:25","menu_order":0,"mime_type":"image\/png","type":"image","subtype":"png","icon":"https:\/\/www.doctolib.fr/sante\/wp-includes\/images\/media\/default.png","width":400,"height":400,"sizes":{"thumbnail":"https:\/\/doctolib-b2b-wordpress-assets-prd-aws-de-fra-1.s3.amazonaws.com\/uploads\/2022\/07\/security-lock.png","thumbnail-width":96,"thumbnail-height":96,"medium":"https:\/\/doctolib-b2b-wordpress-assets-prd-aws-de-fra-1.s3.amazonaws.com\/uploads\/2022\/07\/security-lock.png","medium-width":400,"medium-height":400,"medium_large":"https:\/\/doctolib-b2b-wordpress-assets-prd-aws-de-fra-1.s3.amazonaws.com\/uploads\/2022\/07\/security-lock.png","medium_large-width":400,"medium_large-height":400,"large":"https:\/\/doctolib-b2b-wordpress-assets-prd-aws-de-fra-1.s3.amazonaws.com\/uploads\/2022\/07\/security-lock.png","large-width":400,"large-height":400,"1536x1536":"https:\/\/doctolib-b2b-wordpress-assets-prd-aws-de-fra-1.s3.amazonaws.com\/uploads\/2022\/07\/security-lock.png","1536x1536-width":400,"1536x1536-height":400,"2048x2048":"https:\/\/doctolib-b2b-wordpress-assets-prd-aws-de-fra-1.s3.amazonaws.com\/uploads\/2022\/07\/security-lock.png","2048x2048-width":400,"2048x2048-height":400,"100x100":"https:\/\/doctolib-b2b-wordpress-assets-prd-aws-de-fra-1.s3.amazonaws.com\/uploads\/2022\/07\/security-lock-200x200.png","100x100-width":200,"100x100-height":200}},"title":"Une s\u00e9curit\u00e9 des donn\u00e9es garantie pour pr\u00e9server votre vie priv\u00e9e ","description":"Contrairement au t\u00e9l\u00e9phone et aux e-mails, la t\u00e9l\u00e9consultation et le partage de documents avec Doctolib garantissent la confidentialit\u00e9 de vos donn\u00e9es de sant\u00e9.","type_of_link":"page","cta_label":"","page_link":"","url":"","anchor":"","second_tcs":true,"second_speciality_place":"","second_prefilled_speciality":false,"second_picked_specialities":[],"second_redirection_url":null,"second_screeb_quiz_id":"","second_general_link":null,"second_prefilled_location":""}},{"acf_fc_layout":"tab","icon_select":"","title":"Une protection contre les infections","tag":"","description":"","type_of_link":"general_link","cta_label":"","page_link":null,"url":"","anchor":"","tcs":true,"speciality_place":"","prefilled_speciality":false,"picked_specialities":[],"redirection_url":null,"screeb_quiz_id":"","general_link":null,"prefilled_location":"","content":{"image":{"ID":20121,"id":20121,"title":"medical_virus-covid","filename":"medical-virus-covid.png","filesize":10414,"url":"https:\/\/doctolib-b2b-wordpress-assets-prd-aws-de-fra-1.s3.amazonaws.com\/uploads\/2022\/06\/medical-virus-covid.png","link":"https:\/\/www.doctolib.fr/sante\/consultation-video\/attachment\/medical-virus-covid\/","alt":"","author":"55","description":"","caption":"","name":"medical-virus-covid","status":"inherit","uploaded_to":18579,"date":"2022-06-20 14:16:22","modified":"2022-06-20 14:16:22","menu_order":0,"mime_type":"image\/png","type":"image","subtype":"png","icon":"https:\/\/www.doctolib.fr/sante\/wp-includes\/images\/media\/default.png","width":400,"height":400,"sizes":{"thumbnail":"https:\/\/doctolib-b2b-wordpress-assets-prd-aws-de-fra-1.s3.amazonaws.com\/uploads\/2022\/06\/medical-virus-covid.png","thumbnail-width":96,"thumbnail-height":96,"medium":"https:\/\/doctolib-b2b-wordpress-assets-prd-aws-de-fra-1.s3.amazonaws.com\/uploads\/2022\/06\/medical-virus-covid.png","medium-width":400,"medium-height":400,"medium_large":"https:\/\/doctolib-b2b-wordpress-assets-prd-aws-de-fra-1.s3.amazonaws.com\/uploads\/2022\/06\/medical-virus-covid.png","medium_large-width":400,"medium_large-height":400,"large":"https:\/\/doctolib-b2b-wordpress-assets-prd-aws-de-fra-1.s3.amazonaws.com\/uploads\/2022\/06\/medical-virus-covid.png","large-width":400,"large-height":400,"1536x1536":"https:\/\/doctolib-b2b-wordpress-assets-prd-aws-de-fra-1.s3.amazonaws.com\/uploads\/2022\/06\/medical-virus-covid.png","1536x1536-width":400,"1536x1536-height":400,"2048x2048":"https:\/\/doctolib-b2b-wordpress-assets-prd-aws-de-fra-1.s3.amazonaws.com\/uploads\/2022\/06\/medical-virus-covid.png","2048x2048-width":400,"2048x2048-height":400,"100x100":"https:\/\/doctolib-b2b-wordpress-assets-prd-aws-de-fra-1.s3.amazonaws.com\/uploads\/2022\/06\/medical-virus-covid-200x200.png","100x100-width":200,"100x100-height":200}},"title":"Une protection contre les infections","description":"La consultation vid\u00e9o limite la propagation des infections communes en salle d'attente (varicelle, COVID-19, gastroent\u00e9rite, ...) tout en assurant la continuit\u00e9 des soins. ","type_of_link":"page","cta_label":"","page_link":"","url":"","anchor":"","second_tcs":true,"second_speciality_place":"","second_prefilled_speciality":false,"second_picked_specialities":[],"second_redirection_url":null,"second_screeb_quiz_id":"","second_general_link":null,"second_prefilled_location":""}}],"cta-below":{"cta-below_type_of_link":"page","cta-below_label":"","cta-below_page_link":"","cta-below_url":"","cta-below_anchor":"","third_tcs":true,"third_speciality_place":"","third_prefilled_speciality":false,"third_picked_specialities":[],"third_redirection_url":null,"third_screeb_quiz_id":"","third_general_link":null,"third_prefilled_location":""}}},"cta_banner":{"4":{"acf_fc_layout":"cta_banner","disable_layout":false,"padding":"none","name_into_subnav":"","icon_into_subnav":false,"icon":false,"title":" ","text":"","link":"quick_booking","label":"Prendre rendez-vous en vid\u00e9o","page-link":null,"url":"","anchor":"","tcs":true,"speciality_place":"","prefilled_speciality":"","picked_specialities":[],"redirection_url":null,"screeb_quiz_id":"","general_link":null,"prefilled_location":"","cta_secondary_check":false,"cta_secondary_style":"secondary","cta_secondary_type_of_link":"general_link","cta_secondary_label":"","cta_secondary_page_link":null,"cta_secondary_url":"","cta_secondary_anchor":"","cta_secondary_tcs":true,"cta_secondary_speciality_place":"","cta_secondary_prefilled_speciality":false,"cta_secondary_picked_specialities":[],"cta_secondary_redirection_url":null,"cta_secondary_screeb_quiz_id":"","cta_secondary_general_link":null,"cta_secondary_prefilled_location":""}},"keyfigures":{"5":{"acf_fc_layout":"keyfigures","disable_layout":false,"padding":"medium","name_into_subnav":"","icon_into_subnav":false,"title":"Une solution \u00e9prouv\u00e9e, des patients satisfaits et des praticiens convaincus","list_items":[{"item_title":"18 millions","item_desc":"de consultations vid\u00e9o r\u00e9alis\u00e9es gr\u00e2ce \u00e0 Doctolib"},{"item_title":"Pr\u00e8s de 90%","item_desc":"de nos utilisateurs la recommandent"},{"item_title":"96%","item_desc":"des consultations vid\u00e9o sont jug\u00e9es pertinentes par les praticiens"}]}},"faq":{"6":{"acf_fc_layout":"faq","disable_layout":false,"padding":"none","name_into_subnav":"","icon_into_subnav":false,"title_faq":"Dans quels cas prendre rendez-vous en vid\u00e9o ?","default_open":false,"row":[{"title":"Chez le m\u00e9decin g\u00e9n\u00e9raliste ","text":"<h3 class=\"dl-text dl-text-title dl-text-bold dl-text-s dl-margin-t dl-margin-b-8 dl-text-left\">Diagnostic et suivi<\/h3>\n<div class=\"dl-text dl-text-body dl-text-regular dl-text-s dl-text-left\">\n<ul>\n<li>Interpr\u00e9tation des r\u00e9sultats d&rsquo;examens ou de bilans biologiques<\/li>\n<li>Coordination des soins : orientation vers un sp\u00e9cialiste, r\u00e9\u00e9valuation de traitement prescrit par un sp\u00e9cialiste, &#8230;<\/li>\n<li>D\u00e9marches administratives si le patient a d\u00e9j\u00e0 \u00e9t\u00e9 examin\u00e9 : arr\u00eat de travail, &#8230;<\/li>\n<li>Suivi de maladies chroniques et adaptation de traitement : diab\u00e8te, asthme et BPCO, maladie m\u00e9tabolique ou endocrinienne, &#8230;<\/li>\n<li>Infections urinaires ou g\u00e9nitales : cystites, pertes vaginales anormales, \u2026<\/li>\n<li>Suivi d&rsquo;un traitement pr\u00e9ventif des risques cardio-vasculaires<\/li>\n<li>Suivi psychologique<\/li>\n<li>Suivi de sevrage : alcool, tabac, &#8230;<\/li>\n<li>Suivi di\u00e9t\u00e9tique (avec ou sans probl\u00e8me de poids)<\/li>\n<li>Suivi d&rsquo;un arr\u00eat maladie<\/li>\n<li>Suivi d&rsquo;un accident du travail ou d&rsquo;une maladie professionnelle<\/li>\n<\/ul>\n<\/div>\n<p>&nbsp;<\/p>\n<div class=\"dl-text dl-text-body dl-text-regular dl-text-s dl-text-left\">\n<h3 class=\"dl-text dl-text-title dl-text-bold dl-text-s dl-margin-t dl-margin-b-8 dl-text-left\">Enfant et adolescent<\/h3>\n<div class=\"dl-text dl-text-body dl-text-regular dl-text-s dl-text-left\">\n<ul>\n<li>Suivi du nourrisson entre deux consultations physiques : conseils sur l&rsquo;allaitement ou sur l&rsquo;alimentation, &#8230;<\/li>\n<li>Prise en charge et suivi d&rsquo;une acn\u00e9<\/li>\n<li>Suivi psychologique<\/li>\n<\/ul>\n<\/div>\n<p>&nbsp;<\/p>\n<div class=\"dl-text dl-text-body dl-text-regular dl-text-s dl-text-left\">\n<h3 class=\"dl-text dl-text-title dl-text-bold dl-text-s dl-margin-t dl-margin-b-8 dl-text-left\">Sexualit\u00e9<\/h3>\n<div class=\"dl-text dl-text-body dl-text-regular dl-text-s dl-text-left\">\n<ul>\n<li>Demande et suivi de bilan biologique pour le d\u00e9pistage d&rsquo;infections sexuellement transmissibles (IST)<\/li>\n<li>Obtention d&rsquo;informations sur les probl\u00e9matiques li\u00e9es \u00e0 la sexualit\u00e9<\/li>\n<li>Suivi d&rsquo;un choix de contraception<\/li>\n<li>Suivi d&rsquo;une dysm\u00e9norrh\u00e9e (douleur de r\u00e8gles) ou de troubles du cycle hormonal<\/li>\n<li>Pr\u00e9paration d&rsquo;un projet de grossesse<\/li>\n<\/ul>\n<\/div>\n<p>&nbsp;<\/p>\n<div class=\"dl-text dl-text-body dl-text-regular dl-text-s dl-text-left\">\n<div class=\"dl-text dl-text-body dl-text-regular dl-text-s dl-text-left\">\n<h3 class=\"dl-text dl-text-title dl-text-bold dl-text-s dl-margin-t dl-margin-b-8 dl-text-left\">COVID-19<\/h3>\n<div class=\"dl-text dl-text-body dl-text-regular dl-text-s dl-text-left\">\n<ul>\n<li>1<sup>\u00e8re<\/sup> consultation des patients symptomatiques&nbsp;<\/li>\n<li>Ordonnance d&rsquo;un test de d\u00e9pistage du COVID-19<\/li>\n<li>Suivi et prise en charge \u00e0 domicile pour les cas COVID-positifs<\/li>\n<li>Conseil pour les \u00ab\u00a0cas contact\u00a0\u00bb (information et d\u00e9marches)<\/li>\n<\/ul>\n<p>&nbsp;<\/p>\n<p>Ces motifs de consultation sont donn\u00e9s \u00e0 titre d\u2019exemple et ont \u00e9t\u00e9 mentionn\u00e9s par une majorit\u00e9 de professionnels de sant\u00e9 de cette sp\u00e9cialit\u00e9 utilisant la consultation vid\u00e9o (\u00e9tude r\u00e9alis\u00e9e par Doctolib entre le 5 et le 15 mai 2020). En cas de doute, seul un professionnel de sant\u00e9 pourra juger de la pertinence d\u2019une consultation vid\u00e9o.<\/p>\n<\/div>\n<\/div>\n<\/div>\n<\/div>\n<\/div>\n"},{"title":"Chez le p\u00e9diatre","text":"<div class=\"dl-display-flex dl-paw-usecases\">\n<div class=\"dl-paw-usecase dl-flex-column dl-flex-start dl-margin-y-8 dl-md-margin-l-s dl-md-margin-r\">\n<h3 class=\"dl-text dl-text-title dl-text-bold dl-text-s dl-margin-t dl-margin-b-8 dl-text-left\">Diagnostic et suivi<\/h3>\n<div class=\"dl-text dl-text-body dl-text-regular dl-text-s dl-text-left\">\n<ul>\n<li>Diagnostic en cas de maladie infectieuse commune et typique : varicelle, gastroent\u00e9rite, &#8230;<\/li>\n<li>Diagnostic dermatologique suite \u00e0 des \u00e9ruptions cutan\u00e9es : ros\u00e9ole, ecz\u00e9ma, \u2026<\/li>\n<li>Suivi de maladies rhino-pharyng\u00e9es ou ORL en l&rsquo;absence de fi\u00e8vre : bronchiolite, &#8230;<\/li>\n<li>Suivi et adaptation d&rsquo;un traitement apr\u00e8s une consultation physique : asthme, hyperr\u00e9activit\u00e9 bronchique, allergies, &#8230;<\/li>\n<li>Interpr\u00e9tation de r\u00e9sultats d&rsquo;analyse : examen des urines, examen sanguin, \u2026<\/li>\n<\/ul>\n<\/div>\n<\/div>\n<div class=\"dl-paw-usecase dl-flex-column dl-flex-start dl-margin-y-8 dl-md-margin-l-s dl-md-margin-r\">\n<h3>&nbsp;<\/h3>\n<h3 class=\"dl-text dl-text-title dl-text-bold dl-text-s dl-margin-t dl-margin-b-8 dl-text-left\">Conseils et informations<\/h3>\n<div class=\"dl-text dl-text-body dl-text-regular dl-text-s dl-text-left\">\n<ul>\n<li>Guidance parentale<\/li>\n<li>Suivi di\u00e9t\u00e9tique de l&rsquo;enfant (avec ou sans probl\u00e8me de poids)<\/li>\n<li>Conseils sur l&rsquo;allaitement maternel<\/li>\n<li>Conseils et prescription de vaccins<\/li>\n<li>Soutien psychologique<\/li>\n<li>Troubles du sommeil<\/li>\n<li>Troubles de l&rsquo;alimentation<\/li>\n<\/ul>\n<p>&nbsp;<\/p>\n<p>Ces motifs de consultation sont donn\u00e9s \u00e0 titre d\u2019exemple et ont \u00e9t\u00e9 mentionn\u00e9s par une majorit\u00e9 de professionnels de sant\u00e9 de cette sp\u00e9cialit\u00e9 utilisant la consultation vid\u00e9o (\u00e9tude r\u00e9alis\u00e9e par Doctolib entre le 5 et le 15 mai 2020). En cas de doute, seul un professionnel de sant\u00e9 pourra juger de la pertinence d\u2019une consultation vid\u00e9o.<\/p>\n<\/div>\n<\/div>\n<\/div>\n"},{"title":"Chez le gyn\u00e9cologue","text":"<div class=\"page\" title=\"Page 1\">\n<div class=\"section\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<h3 class=\"dl-text dl-text-title dl-text-bold dl-text-s dl-margin-t dl-margin-b-8 dl-text-left\">Suivi gyn\u00e9cologique<\/h3>\n<ul>\n<li>Interpr\u00e9tation des re\u0301sultats d&rsquo;examens comple\u0301mentaires : examen de biologie, test de de\u0301pistage du cancer du col de l\u2019ute\u0301rus, biopsie, imagerie<\/li>\n<li>Ajustement de traitement : contraception, traitement hormonal de me\u0301nopause, traitement d\u2019infertilite\u0301, traitement de l\u2019hirsutisme, traitement de l\u2019endome\u0301triose<\/li>\n<li>Suivi des b\u00eata-HCG<\/li>\n<li>Prise en charge des mycoses et des infections urinaires basses sans fi\u00e8vre<\/li>\n<li>Prescription des examens et traitements des IST du ou des partenaires s\u2019ils sont asymptomatiques<\/li>\n<li>Consultation de pre\u0301paration et d\u2019informations avant une consultation en cabinet pour une nouvelle patiente : pose d\u2019un ste\u0301rilet, colposcopie<\/li>\n<\/ul>\n<p>&nbsp;<\/p>\n<h3 class=\"dl-text dl-text-title dl-text-bold dl-text-s dl-margin-t dl-margin-b-8 dl-text-left\">Sant\u00e9 sexuelle<\/h3>\n<ul>\n<li class=\"dl-text dl-text-title dl-text-bold dl-text-s dl-margin-t dl-margin-b-8 dl-text-left\">Renouvellement d\u2019une contraception (pilule, patch, anneau)<\/li>\n<li class=\"dl-text dl-text-title dl-text-bold dl-text-s dl-margin-t dl-margin-b-8 dl-text-left\">Consultation d\u2019information et pre\u0301vention sur la sexualite\u0301 : de\u0301pistage des infections sexuellement transmissibles, pre\u0301vention des violences sexuelles, de\u0301roulement d\u2019une consultation gyne\u0301cologique pre\u0301sentielle<\/li>\n<li class=\"dl-text dl-text-title dl-text-bold dl-text-s dl-margin-t dl-margin-b-8 dl-text-left\">1<sup>\u00e8re<\/sup> consultation de contraception chez une jeune femme ou un jeune homme de moins de 26 ans. Cette consultation devra e\u0302tre suivie d\u2019une consultation pre\u0301sentielle dans un de\u0301lai de 6 mois maximum.<\/li>\n<li class=\"dl-text dl-text-title dl-text-bold dl-text-s dl-margin-t dl-margin-b-8 dl-text-left\">Interruption volontaire de grossesse (IVG) me\u0301dicamenteuse<\/li>\n<li class=\"dl-text dl-text-title dl-text-bold dl-text-s dl-margin-t dl-margin-b-8 dl-text-left\">Consultation de pre\u0301paration d\u2019une IVG chirurgicale<\/li>\n<\/ul>\n<p>&nbsp;<\/p>\n<h3 class=\"dl-text dl-text-title dl-text-bold dl-text-s dl-margin-t dl-margin-b-8 dl-text-left\">Fertilit\u00e9<\/h3>\n<ul>\n<li class=\"dl-text dl-text-title dl-text-bold dl-text-s dl-margin-t dl-margin-b-8 dl-text-left\">Consultation initiale dans le cadre d\u2019un de\u0301sir de grossesse : conseils, premier bilan<\/li>\n<li class=\"dl-text dl-text-title dl-text-bold dl-text-s dl-margin-t dl-margin-b-8 dl-text-left\">Consultations avec le partenaire dans le cadre d\u2019une infertilite\u0301 pour prescription du spermogramme et analyse de re\u0301sultats<\/li>\n<li class=\"dl-text dl-text-title dl-text-bold dl-text-s dl-margin-t dl-margin-b-8 dl-text-left\">Consultation d\u2019information dans le cadre d\u2019une demande de pre\u0301servation socie\u0301tale de la fertilite\u0301<\/li>\n<li class=\"dl-text dl-text-title dl-text-bold dl-text-s dl-margin-t dl-margin-b-8 dl-text-left\">Traitement et suivi dans le cadre d\u2019une Procre\u0301ation Me\u0301dicalement Assiste\u0301e (PMA)<\/li>\n<li class=\"dl-text dl-text-title dl-text-bold dl-text-s dl-margin-t dl-margin-b-8 dl-text-left\">Traitement et suivi de patients dans le cadre d\u2019une infertilite\u0301<\/li>\n<\/ul>\n<p>&nbsp;<\/p>\n<h3 class=\"dl-text dl-text-title dl-text-bold dl-text-s dl-margin-t dl-margin-b-8 dl-text-left\">Grossesse<\/h3>\n<ul>\n<li class=\"dl-text dl-text-title dl-text-bold dl-text-s dl-margin-t dl-margin-b-8 dl-text-left\">Consultation pre\u0301-conceptionnelle chez une femme suivie n\u2019ayant pas de plainte particulie\u0300re ou de maladie chronique<\/li>\n<li class=\"dl-text dl-text-title dl-text-bold dl-text-s dl-margin-t dl-margin-b-8 dl-text-left\">Entretien pre\u0301natal pre\u0301coce<\/li>\n<li class=\"dl-text dl-text-title dl-text-bold dl-text-s dl-margin-t dl-margin-b-8 dl-text-left\">De\u0301pistage de la trisomie 21 justifiant un 2<sup>\u00e8me<\/sup> test<\/li>\n<li class=\"dl-text dl-text-title dl-text-bold dl-text-s dl-margin-t dl-margin-b-8 dl-text-left\">Prolongation d\u2019arre\u0302t de travail<\/li>\n<li class=\"dl-text dl-text-title dl-text-bold dl-text-s dl-margin-t dl-margin-b-8 dl-text-left\">Prise en charge du diabe\u0300te gestationnel : suivi glyce\u0301mique, adaptation de l\u2019insulino-the\u0301rapie et e\u0301ducation the\u0301rapeutique<\/li>\n<li class=\"dl-text dl-text-title dl-text-bold dl-text-s dl-margin-t dl-margin-b-8 dl-text-left\">Consultation post-natale : contraception, re\u0301e\u0301ducation, consultation dans les 2 mois qui suivent l\u2019accouchement<\/li>\n<li class=\"dl-text dl-text-title dl-text-bold dl-text-s dl-margin-t dl-margin-b-8 dl-text-left\">Entretien post-natal pre\u0301coce (entre les 4e et 8e semaines qui suivent l\u2019accouchement)<\/li>\n<\/ul>\n<\/div>\n<div class=\"page\" title=\"Page 2\">\n<div class=\"page\" title=\"Page 2\">\n<div class=\"page\" title=\"Page 2\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<div class=\"page\" title=\"Page 2\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<p>&nbsp;<\/p>\n<p>Cas d&rsquo;usage valide\u0301s par la F\u00e9d\u00e9ration Nationale des Coll\u00e8ges de Gyn\u00e9cologie M\u00e9dicale.<\/p>\n<\/div>\n<\/div>\n<\/div>\n<\/div>\n<\/div>\n<\/div>\n<\/div>\n<\/div>\n<\/div>\n<\/div>\n<\/div>\n"},{"title":"Chez le dermatologue","text":"<div class=\"dl-display-flex dl-paw-usecases\">\n<div class=\"dl-paw-usecase dl-flex-column dl-flex-start dl-margin-y-8 dl-md-margin-l-s dl-md-margin-r\">\n<h3 class=\"dl-text dl-text-title dl-text-bold dl-text-s dl-margin-t dl-margin-b-8 dl-text-left\">Diagnostic et suivi<\/h3>\n<div class=\"dl-text dl-text-body dl-text-regular dl-text-s dl-text-left\">\n<ul>\n<li>Maladies chroniques : acn\u00e9, ecz\u00e9ma, mycose, psoriasis, ulc\u00e8re, &#8230;<\/li>\n<li>Maladies saisonni\u00e8res : allergies, engelure, lucite estivale, pityriasis versicolor, \u2026<\/li>\n<li>Sympt\u00f4mes cutan\u00e9s du COVID-19<\/li>\n<\/ul>\n<p>&nbsp;<\/p>\n<\/div>\n<\/div>\n<div class=\"dl-paw-usecase dl-flex-column dl-flex-start dl-margin-y-8 dl-md-margin-l-s dl-md-margin-r\">\n<h3 class=\"dl-text dl-text-title dl-text-bold dl-text-s dl-margin-t dl-margin-b-8 dl-text-left\">Prescription et\/ou interpr\u00e9tation d&rsquo;examens compl\u00e9mentaires<\/h3>\n<div class=\"dl-text dl-text-body dl-text-regular dl-text-s dl-text-left\">\n<ul>\n<li>Bilan biologique<\/li>\n<li>Bilan hormonal<\/li>\n<li>\u00c9chographie<\/li>\n<\/ul>\n<p>&nbsp;<\/p>\n<\/div>\n<\/div>\n<div class=\"dl-paw-usecase dl-flex-column dl-flex-start dl-margin-y-8 dl-md-margin-l-s dl-md-margin-r\">\n<h3 class=\"dl-text dl-text-title dl-text-bold dl-text-s dl-margin-t dl-margin-b-8 dl-text-left\">Conseils et informations<\/h3>\n<div class=\"dl-text dl-text-body dl-text-regular dl-text-s dl-text-left\">\n<ul>\n<li>Protection contre les UV<\/li>\n<li>Soins quotidiens<\/li>\n<\/ul>\n<p>&nbsp;<\/p>\n<p>Ces motifs de consultation sont donn\u00e9s \u00e0 titre d\u2019exemple et ont \u00e9t\u00e9 mentionn\u00e9s par une majorit\u00e9 de professionnels de sant\u00e9 de cette sp\u00e9cialit\u00e9 utilisant la consultation vid\u00e9o (\u00e9tude r\u00e9alis\u00e9e par Doctolib entre le 5 et le 15 mai 2020). En cas de doute, seul un professionnel de sant\u00e9 pourra juger de la pertinence d\u2019une consultation vid\u00e9o.<\/p>\n<\/div>\n<\/div>\n<\/div>\n"},{"title":"Chez la sage-femme","text":"<div class=\"dl-paw-usecase dl-flex-column dl-flex-start dl-margin-y-8 dl-md-margin-l-s dl-md-margin-r\">\n<h3 class=\"dl-text dl-text-title dl-text-bold dl-text-s dl-margin-t dl-margin-b-8 dl-text-left\">Suivi gyn\u00e9cologique<\/h3>\n<div class=\"dl-text dl-text-body dl-text-regular dl-text-s dl-text-left\">\n<ul>\n<li>Obtention d&rsquo;informations sur des probl\u00e9matiques li\u00e9es \u00e0 la gyn\u00e9cologie<\/li>\n<li>Demande de bilan biologique pour le d\u00e9pistage d&rsquo;infections sexuellement transmissibles<\/li>\n<li>Suivi d&rsquo;examens<\/li>\n<\/ul>\n<p>&nbsp;<\/p>\n<\/div>\n<\/div>\n<div class=\"dl-paw-usecase dl-flex-column dl-flex-start dl-margin-y-8 dl-md-margin-l-s dl-md-margin-r\">\n<h3 class=\"dl-text dl-text-title dl-text-bold dl-text-s dl-margin-t dl-margin-b-8 dl-text-left\">Contraception<\/h3>\n<div class=\"dl-text dl-text-body dl-text-regular dl-text-s dl-text-left\">\n<ul>\n<li>Renouvellement de prescription<\/li>\n<li>Suivi d&rsquo;un choix de contraception<\/li>\n<li>Conseils pour contraception hormonale ou \u00e0 long terme et r\u00e9versible (LARC)<\/li>\n<li>Pr\u00e9vention<\/li>\n<\/ul>\n<p>&nbsp;<\/p>\n<\/div>\n<\/div>\n<div class=\"dl-paw-usecase dl-flex-column dl-flex-start dl-margin-y-8 dl-md-margin-l-s dl-md-margin-r\">\n<h3 class=\"dl-text dl-text-title dl-text-bold dl-text-s dl-margin-t dl-margin-b-8 dl-text-left\">Grossesse<\/h3>\n<div class=\"dl-text dl-text-body dl-text-regular dl-text-s dl-text-left\">\n<ul>\n<li>Pr\u00e9paration d&rsquo;un projet de grossesse<\/li>\n<li>Consultation de d\u00e9but de grossesse<\/li>\n<li>Conseils et informations entre 2 consultations de suivi<\/li>\n<li>S\u00e9ances de pr\u00e9paration \u00e0 la naissance et \u00e0 la parentalit\u00e9<\/li>\n<\/ul>\n<p>&nbsp;<\/p>\n<\/div>\n<h3 class=\"dl-text dl-text-title dl-text-bold dl-text-s dl-margin-t dl-margin-b-8 dl-text-left\">Suivi post-natal<\/h3>\n<div class=\"dl-text dl-text-body dl-text-regular dl-text-s dl-text-left\">\n<ul>\n<li>Consultation d&rsquo;allaitement<\/li>\n<li>1<sup>\u00e8re<\/sup> s\u00e9ance de r\u00e9\u00e9ducation du p\u00e9rin\u00e9e<\/li>\n<\/ul>\n<p>&nbsp;<\/p>\n<p>Ces motifs de consultation sont donn\u00e9s \u00e0 titre d\u2019exemple et ont \u00e9t\u00e9 mentionn\u00e9s par une majorit\u00e9 de professionnels de sant\u00e9 de cette sp\u00e9cialit\u00e9 utilisant la consultation vid\u00e9o (\u00e9tude r\u00e9alis\u00e9e par Doctolib entre le 5 et le 15 mai 2020). En cas de doute, seul un professionnel de sant\u00e9 pourra juger de la pertinence d\u2019une consultation vid\u00e9o.<\/p>\n<\/div>\n<\/div>\n"}]},"7":{"acf_fc_layout":"faq","disable_layout":false,"padding":"medium","name_into_subnav":"","icon_into_subnav":false,"title_faq":"Questions fr\u00e9quentes","default_open":false,"row":[{"title":"Par quel moyen peut-on faire une consultation vid\u00e9o via Doctolib ? ","text":"<p><span style=\"font-weight: 400\">Vous pouvez r\u00e9aliser votre consultation \u00e0 distance de votre <strong>ordinateur<\/strong> \u00e0 condition qu\u2019il soit \u00e9quip\u00e9 d&rsquo;une webcam, de votre <strong>tablette<\/strong> ou encore de votre <strong>smartphone<\/strong>.<\/span><\/p>\n<p><span style=\"font-weight: 400\">Sur votre tablette et smartphone, vous pouvez utiliser l\u2019application Doctolib ou votre navigateur internet selon ce que vous pr\u00e9f\u00e9rez.<\/span><\/p>\n"},{"title":"Comment r\u00e9server une consultation vid\u00e9o via Doctolib ? ","text":"<p>Afin de programmer un rendez-vous vid\u00e9o avec un praticien, assurez-vous d&rsquo;avoir <a href=\"https:\/\/www.doctolib.fr\/sessions\/new\">cr\u00e9\u00e9 un compte sur Doctolib<\/a> pour pouvoir r\u00e9server le cr\u00e9neau horaire de votre choix dans son agenda. Il est fortement recommand\u00e9 d&rsquo;installer l&rsquo;application mobile Doctolib, disponible sur <a href=\"https:\/\/play.google.com\/store\/apps\/details?id=fr.doctolib.www\">Android<\/a>&nbsp;et&nbsp;<a href=\"https:\/\/apps.apple.com\/fr\/app\/doctolib\/id925339063\">iOS<\/a>.<\/p>\n<p>&nbsp;<\/p>\n<p>1. Rendez-vous sur la page d&rsquo;accueil de Doctolib et effectuez une recherche de la <strong>sp\u00e9cialit\u00e9<\/strong> souhait\u00e9e dans votre <strong>commune<\/strong>.<\/p>\n<p>2. Les praticiens proposant la consultation vid\u00e9o verront s&rsquo;afficher une <strong>ic\u00f4ne \u00ab\u00a0cam\u00e9ra\u00a0\u00bb<\/strong> sur leur fiche profil. Vous pouvez \u00e9galement pr\u00e9ciser la recherche gr\u00e2ce au <strong>filtre \u201cConsultation vid\u00e9o\u201d<\/strong> disponible.<\/p>\n<p>3. Une fois le professionnel s\u00e9lectionn\u00e9, cliquez sur <strong>\u201cEn vid\u00e9o\u201d \u00e0 l&rsquo;\u00e9tape de choix du type de consultation<\/strong>. Vous devrez alors renseigner le motif de consultation (\u201cconsultation vid\u00e9o &#8211; patient suivi\u201d ou \u201cconsultation vid\u00e9o &#8211; nouveau patient\u201d) , puis une empreinte bancaire pour le paiement \u00e0 posteriori de la consultation vid\u00e9o, et c&rsquo;est valid\u00e9.<\/p>\n<p>&nbsp;<\/p>\n<p>Cliquez-ici pour&nbsp;<a href=\"https:\/\/doctolibpatient.zendesk.com\/hc\/fr\/articles\/360013301840\">tout savoir sur le paiement en ligne d&rsquo;une consultation vid\u00e9o sur Doctolib.<\/a><\/p>\n<p>&nbsp;<\/p>\n<p>La consultation vid\u00e9o a lieu directement sur la plateforme s\u00e9curis\u00e9e de Doctolib. Vous n&rsquo;avez pas besoin de t\u00e9l\u00e9charger d&rsquo;autre application. Doctolib repr\u00e9sente une alternative s\u00e9curis\u00e9e aux consultations vid\u00e9o via d&rsquo;autres services comme WhatsApp ou Skype par exemple.<\/p>\n"},{"title":"Comment se d\u00e9roule une consultation vid\u00e9o ? ","text":"<ul>\n<li>Au pr\u00e9alable, vous devez vous assurer de disposer d&rsquo;un dispositif \u00e9quip\u00e9 d&rsquo;une cam\u00e9ra, d&rsquo;un micro, d&rsquo;une connexion internet stable et de suffisamment de batterie. Veillez \u00e9galement \u00e0 ce que l&rsquo;application utilis\u00e9e (application mobile ou navigateur internet) ait bien acc\u00e8s au micro et \u00e0 la cam\u00e9ra de l&rsquo;appareil.<\/li>\n<li>Installez-vous dans un endroit calme et \u00e0 l&rsquo;abri de personnes susceptibles d&rsquo;entendre ce que vous avez \u00e0 dire \u00e0 votre praticien.<\/li>\n<li>Vous pourrez rejoindre la consultation vid\u00e9o depuis l&rsquo;onglet \u00ab\u00a0<strong>Rendez-vous<\/strong>\u00a0\u00bb de votre compte Doctolib ou en cliquant simplement sur le <strong>lien re\u00e7u par SMS 10 minutes avant le d\u00e9but<\/strong> de votre consultation. Vous rejoindrez alors la salle d&rsquo;attente virtuelle du professionnel.<\/li>\n<li>Une fois disponible, il rejoindra votre session et la consultation vid\u00e9o d\u00e9marrera. S&rsquo;il a du retard, il recevra des alertes fr\u00e9quentes pour lui rappeler votre rendez-vous et pourra vous informer d&rsquo;une estimation du temps de retard. Ensuite, la consultation se d\u00e9roulera comme si vous \u00e9tiez au cabinet.<\/li>\n<li>Une fois la t\u00e9l\u00e9consultation termin\u00e9e, vous pouvez raccrocher. Le m\u00e9decin se chargera du pr\u00e9l\u00e8vement bancaire et vous recevrez votre ordonnance directement dans votre espace personnel et s\u00e9curis\u00e9 Doctolib.<\/li>\n<\/ul>\n<p>&nbsp;<\/p>\n<p>Plus d&rsquo;information sur <a href=\"https:\/\/doctolibpatient.zendesk.com\/hc\/fr\/articles\/360013355219\">les \u00e9quipements et conditions ad\u00e9quats \u00e0 la bonne r\u00e9alisation d&rsquo;une consultation vid\u00e9o<\/a>&nbsp;et&nbsp;<a href=\"https:\/\/doctolibpatient.zendesk.com\/hc\/fr\/articles\/360025304654\">ici pour savoir comment consulter et partager un document envoy\u00e9 par votre praticien.<\/a><\/p>\n"},{"title":"Combien co\u00fbte une consultation vid\u00e9o ? ","text":"<p><span style=\"font-weight: 400\">Une t\u00e9l\u00e9consultation est factur\u00e9e <\/span><b>au m\u00eame tarif qu\u2019une consultation en face-\u00e0-face<\/b>.<span style=\"font-weight: 400\"> Soit, pour un m\u00e9decin, entre 23 \u20ac et 58,50 \u20ac selon la sp\u00e9cialit\u00e9 et le secteur d\u2019exercice. <\/span><\/p>\n<p>&nbsp;<\/p>\n<p><span style=\"font-weight: 400\">Les m\u00e9decins lib\u00e9raux ont la possibilit\u00e9 de facturer un d\u00e9passement d\u2019honoraires dans les conditions habituelles (secteur 2, etc.).<\/span><\/p>\n<p>&nbsp;<\/p>\n<p><span style=\"font-weight: 400\">Les r\u00e8gles de prise en charge m\u00e9dicale sont les m\u00eames que pour une consultation en pr\u00e9sentiel, avec les m\u00eames taux (70 %). De m\u00eame, les patients b\u00e9n\u00e9ficiant d&rsquo;une couverture sant\u00e9 (Couverture maladie universelle compl\u00e9mentaire &#8211; CMU-C par exemple) auront droit \u00e0 une prise en charge compl\u00e8te de leur consultation m\u00e9dicale en ligne.<\/span><\/p>\n"},{"title":"Comment fonctionne le remboursement ?","text":"<p><span style=\"font-weight: 400\">Afin de b\u00e9n\u00e9ficier du remboursement, le patient doit s&rsquo;assurer que la consultation vid\u00e9o s&rsquo;effectue dans le cadre de son <strong>parcours de soins<\/strong>, dans une logique d&rsquo;<strong>ancrage territorial <\/strong>et que son suivi alterne <strong>consultations pr\u00e9sentielle et \u00e0 distance<\/strong>. <\/span><\/p>\n<p>&nbsp;<\/p>\n<p><span style=\"font-weight: 400\">Les conditions d&rsquo;une consultation physique s&rsquo;appliquant, le patient sera rembours\u00e9 de l&rsquo;ordre de 70% par l&rsquo;Assurance Maladie, et 30% par la compl\u00e9mentaire sant\u00e9 (mutuelle). Pour les soins relevant du tiers payant, la t\u00e9l\u00e9consultation est prise en charge \u00e0 100%.<\/span><\/p>\n<p>&nbsp;<\/p>\n<p class=\"wysiwyg-text-align-justify\">\u00c0 l&rsquo;issue de votre rendez-vous de consultation vid\u00e9o, lorsque l&rsquo;acte s&rsquo;inscrit dans le cadre r\u00e9glementaire du remboursement :<\/p>\n<ul class=\"wysiwyg-text-align-justify\">\n<li>Si son logiciel le permet, votre m\u00e9decin fera un <strong>feuille de soin \u00e9lectronique (FSE)<\/strong>&nbsp;qui sera automatiquement envoy\u00e9e \u00e0 l&rsquo;Assurance Maladie.<\/li>\n<li>S&rsquo;il ne peut pas faire de feuille de soin \u00e9lectronique, il vous partagera une feuille de soin papier que vous devrez ensuite envoyer \u00e0 l&rsquo;Assurance Maladie.<\/li>\n<\/ul>\n"},{"title":"Comment payer une t\u00e9l\u00e9consultation sur Doctolib ?","text":"<p>Doctolib utilise une solution <b>sp\u00e9cialis\u00e9e dans le r\u00e8glement en ligne<\/b>. Vos coordonn\u00e9es bancaires sont <b>compl\u00e8tement s\u00e9curis\u00e9es <\/b>lorsque vous r\u00e9glez une consultation vid\u00e9o sur Doctolib.<\/p>\n<p>&nbsp;<\/p>\n<p><span style=\"font-weight: 400\">Avant de d\u00e9marrer la consultation, vos informations bancaires vous seront demand\u00e9es afin de r\u00e9aliser une pr\u00e9-autorisation de paiement d&rsquo;un montant \u00e9gal au tarif de la consultation vid\u00e9o. <\/span><b>Aucun pr\u00e9l\u00e8vement ne sera effectu\u00e9 avant la fin de la consultation vid\u00e9o. <\/b><span style=\"font-weight: 400\">Ainsi, d\u00e8s la fin de la session, le m\u00e9decin pourra effectuer un pr\u00e9l\u00e8vement dont le montant ne pourra d\u00e9passer celui que vous avez autoris\u00e9 lors de la pr\u00e9-autorisation. Si la consultation n&rsquo;a finalement pas lieu, vous n&rsquo;aurez bien s\u00fbr rien \u00e0 payer.<\/span><\/p>\n<p><span style=\"font-weight: 400\">Cliquez-ici pour plus d&rsquo;informations sur <\/span><a href=\"https:\/\/doctolibpatient.zendesk.com\/hc\/fr\/articles\/360013301840\"><span style=\"font-weight: 400\">le <\/span><span style=\"font-weight: 400\">paiement de la consultation vid\u00e9o<\/span><span style=\"font-weight: 400\">.<\/span><\/a><\/p>\n<p>&nbsp;<\/p>\n<p><span style=\"font-weight: 400\">Si vous n\u2019avez pas de carte bancaire ou que vous n\u2019avancez pas vos frais m\u00e9dicaux, n\u2019h\u00e9sitez pas \u00e0 contacter directement votre praticien pour convenir d\u2019un rendez-vous sans avance de frais<\/span><span style=\"font-weight: 400\">.<\/span><\/p>\n"},{"title":"Mon m\u00e9decin a transform\u00e9 mon rendez-vous au cabinet en vid\u00e9o. Que dois-je faire ? ","text":"<p>Pensez \u00e0 <strong>confirmer votre consultation vid\u00e9o<\/strong> en suivant les indications contenues dans l\u2019email et renseignez vos coordonn\u00e9es bancaires. Pas d\u2019inqui\u00e9tude, vous ne serez d\u00e9bit\u00e9 qu\u2019une fois la consultation r\u00e9alis\u00e9e.<\/p>\n<p>Votre m\u00e9decin se charge alors de transmettre les informations \u00e0 l&rsquo;Assurance Maladie pour le remboursement. Vous n&rsquo;avez rien \u00e0 faire !<\/p>\n<p>&nbsp;<\/p>\n<p>Depuis votre compte Doctolib, vous pourrez transmettre votre ordonnance en toute s\u00e9curit\u00e9 \u00e0 votre pharmacie.<\/p>\n"},{"title":"Je souhaite convertir mon rendez-vous physique en consultation vid\u00e9o. Comment faire ? ","text":"<p>En cas d&rsquo;impossibilit\u00e9 de vous rendre au cabinet et si votre praticien propose la consultation vid\u00e9o, vous pouvez transformer votre rendez-vous physique en t\u00e9l\u00e9consultation.<\/p>\n<p>Pour ce faire, s\u00e9lectionnez le rendez-vous en question depuis l&rsquo;onglet \u00ab\u00a0Rendez-vous\u201d. Si votre rendez-vous est \u00e9ligible \u00e0 la consultation vid\u00e9o, vous pourrez cliquer sur \u201cConvertir en consultation vid\u00e9o\u201d. Si cette option n\u2019est pas disponible, vous ne pouvez pas convertir votre rendez-vous en consultation vid\u00e9o.<\/p>\n"}]}},"cta_section":{"8":{"acf_fc_layout":"cta_section","disable_layout":false,"padding":"none","name_into_subnav":"","icon_into_subnav":false,"ctasection_label":"","ctasection_title":"Essayez la consultation vid\u00e9o d\u00e8s aujourd'hui","ctasection_bullets-points":[{"ctasection_bullet-point":"Acc\u00e8s rapide \u00e0 un praticien "},{"ctasection_bullet-point":"Qualit\u00e9 des soins reconnue "},{"ctasection_bullet-point":"Suivi m\u00e9dical facilit\u00e9 au quotidien"}],"cta_type_link":"quick_booking","ctasection_cta-title":"PRENDRE RENDEZ-VOUS","ctasection_cta-url":null,"ctasection_cta__external":"","ctasection_cta__anchor":"","tcs":true,"speciality_place":"","prefilled_speciality":"","picked_specialities":[],"redirection_url":null,"screeb_quiz_id":"","general_link":null,"prefilled_location":"","ctasection_cta_secondary_check":false,"ctasection_cta_secondary_type_of_link":"general_link","ctasection_cta_secondary_label":"","ctasection_cta_secondary_page_link":null,"ctasection_cta_secondary_url":"","ctasection_cta_secondary_anchor":"","second_tcs":true,"second_speciality_place":"","second_prefilled_speciality":false,"second_picked_specialities":[],"second_redirection_url":null,"second_screeb_quiz_id":"","second_general_link":null,"second_prefilled_location":"","ctasection_illustration":false}},"ehr_hero":{"1":{"acf_fc_layout":"ehr_hero","disable_layout":false,"hero_product_name":"","hero_title":"<p>Consultation vid\u00e9o : acc\u00e9dez rapidement \u00e0 un praticien avec la m\u00eame <strong>qualit\u00e9<\/strong> de soins<\/p>\n","hero_subtitle":"Conseil, r\u00e9sultats d\u2019analyse, renouvellement d\u2019ordonnance, suivi et adaptation de traitement : en un clic, prenez rendez-vous en vid\u00e9o et b\u00e9n\u00e9ficiez d\u2019une qualit\u00e9 de soins \u00e9quivalente au cabinet.","hero_list":false,"hero_ctas":{"cta_primary_type_of_link":"quick_booking","cta_primary_label":"Prendre rendez-vous","cta_primary_page_link":null,"cta_primary_page_url":"","cta_primary_page_anchor":"","tcs":true,"speciality_place":"","prefilled_speciality":"","picked_specialities":[],"redirection_url":null,"screeb_quiz_id":"","general_link":null,"prefilled_location":"","cta_secondary_check":false,"hero_cta_secondary_cta_style":"secondary","cta_secondary_type_of_link":"general_link","cta_secondary_label":"","cta_secondary_page_link":null,"cta_secondary_page_url":"","cta_secondary_page_anchor":"","second_tcs":true,"second_speciality_place":"","second_prefilled_speciality":false,"second_picked_specialities":[],"second_redirection_url":null,"second_screeb_quiz_id":"","second_general_link":null,"second_prefilled_location":""},"hero_logos":false,"hero_illustration_video":"illustration","hero_illustration":{"ID":14960,"id":14960,"title":"[INTERFACE] TCS consultation-phone","filename":"INTERFACE-TCS-consultation-phone.png","filesize":55875,"url":"https:\/\/doctolib-b2b-wordpress-assets-prd-aws-de-fra-1.s3.amazonaws.com\/uploads\/2021\/07\/INTERFACE-TCS-consultation-phone.png","link":"https:\/\/www.doctolib.fr/sante\/?attachment_id=14960","alt":"","author":"15","description":"","caption":"","name":"interface-tcs-consultation-phone","status":"inherit","uploaded_to":23856,"date":"2021-07-23 14:00:52","modified":"2022-10-25 15:22:46","menu_order":0,"mime_type":"image\/png","type":"image","subtype":"png","icon":"https:\/\/www.doctolib.fr/sante\/wp-includes\/images\/media\/default.png","width":1200,"height":1200,"sizes":{"thumbnail":"https:\/\/doctolib-b2b-wordpress-assets-prd-aws-de-fra-1.s3.amazonaws.com\/uploads\/2021\/07\/INTERFACE-TCS-consultation-phone.png","thumbnail-width":96,"thumbnail-height":96,"medium":"https:\/\/doctolib-b2b-wordpress-assets-prd-aws-de-fra-1.s3.amazonaws.com\/uploads\/2021\/07\/INTERFACE-TCS-consultation-phone.png","medium-width":1200,"medium-height":1200,"medium_large":"https:\/\/doctolib-b2b-wordpress-assets-prd-aws-de-fra-1.s3.amazonaws.com\/uploads\/2021\/07\/INTERFACE-TCS-consultation-phone-768x768.png","medium_large-width":768,"medium_large-height":768,"large":"https:\/\/doctolib-b2b-wordpress-assets-prd-aws-de-fra-1.s3.amazonaws.com\/uploads\/2021\/07\/INTERFACE-TCS-consultation-phone-1024x1024.png","large-width":1024,"large-height":1024,"1536x1536":"https:\/\/doctolib-b2b-wordpress-assets-prd-aws-de-fra-1.s3.amazonaws.com\/uploads\/2021\/07\/INTERFACE-TCS-consultation-phone.png","1536x1536-width":1200,"1536x1536-height":1200,"2048x2048":"https:\/\/doctolib-b2b-wordpress-assets-prd-aws-de-fra-1.s3.amazonaws.com\/uploads\/2021\/07\/INTERFACE-TCS-consultation-phone.png","2048x2048-width":1200,"2048x2048-height":1200,"100x100":"https:\/\/doctolib-b2b-wordpress-assets-prd-aws-de-fra-1.s3.amazonaws.com\/uploads\/2021\/07\/INTERFACE-TCS-consultation-phone-200x200.png","100x100-width":200,"100x100-height":200}},"hero_video_file":false,"autoplay":true,"video_thumbnail":false}},"subnav":[[]],"header":[{"menu":{"activated":"true","items":false}}],"b2c_DidomiPurposeID":"internal","footer":[{"footer_intro":" ","google_link":"https:\/\/play.google.com\/store\/apps\/details?id=fr.doctolib.www&hl=fr","apple_link":"https:\/\/apps.apple.com\/fr\/app\/doctolib\/id925339063","social_links":[{"social_network":"facebook","social_network_url":"https:\/\/www.facebook.com\/doctolib"},{"social_network":"instagram","social_network_url":"https:\/\/www.instagram.com\/doctolib\/"},{"social_network":"twitter","social_network_url":"https:\/\/twitter.com\/Doctolib"},{"social_network":"medium","social_network_url":"https:\/\/medium.com\/doctolib"},{"social_network":"linkedin","social_network_url":"https:\/\/www.linkedin.com\/company\/doctolib\/mycompany\/verification\/"},{"social_network":"youtube","social_network_url":"https:\/\/www.youtube.com\/channel\/UCUK-4icPVFFvnFvUCKh7wsQ"},{"social_network":"tiktok","social_network_url":"https:\/\/www.tiktok.com\/@doctolib\/"}],"social":"4","partners":false,"footer_address":"54 quai Charles Pasqua, 92300 Levallois-Perret","confidentiality_links":[{"conf_title":"Conditions g\u00e9n\u00e9rales d'utilisation","conf_url":"https:\/\/doctolib.legal\/CU-B2C-FR","conf_new_tab":true},{"conf_title":"Conditions d'utilisation du site Doctolib","conf_url":"https:\/\/doctolib.legal\/B2C-CU-Website-FR","conf_new_tab":true},{"conf_title":"Politique relative \u00e0 la protection des donn\u00e9es personnelles","conf_url":"https:\/\/doctolib.legal\/privacy-policy-B2C-FR","conf_new_tab":true},{"conf_title":"Politique en mati\u00e8re de cookies","conf_url":"https:\/\/doctolib.legal\/Cookie_Policy_FR_B2C","conf_new_tab":true},{"conf_title":"Gestion des cookies et consentement","conf_url":"https:\/\/www.doctolib.fr\/privacy-settings","conf_new_tab":true},{"conf_title":"R\u00e8gles de r\u00e9f\u00e9rencement","conf_url":"https:\/\/doctolib.legal\/Search-transparency_DL_FR","conf_new_tab":true},{"conf_title":"Mentions l\u00e9gales","conf_url":"https:\/\/doctolib.legal\/website-imprint","conf_new_tab":true}],"top_footer_banner_title":"Une question ? Besoin d'aide ?","top_footer_banner_text":"Consultez notre aide en ligne ou contactez-nous","top_footer_banner_button":{"title":"CONSULTER LE CENTRE D'AIDE","url":"https:\/\/doctolibpatient.zendesk.com\/hc\/fr?source=help_button","target":""},"footer_menus":[{"footer_menus_columns":{"footer_menus_group":[{"menu_title":"\u00c0 propos de Doctolib","menu_links":[{"menu_link":{"title":"Vaccination COVID-19","url":"https:\/\/www.doctolib.fr\/vaccination-covid-19","target":"_blank"}},{"menu_link":{"title":"Test COVID - Depistage","url":"https:\/\/www.doctolib.fr\/centre-depistage-covid","target":"_blank"}},{"menu_link":{"title":"Test PCR","url":"https:\/\/www.doctolib.fr\/depistage-covid-19-pcr-prelevement-naso-pharynge","target":"_blank"}},{"menu_link":{"title":"Consultation vid\u00e9o - T\u00e9l\u00e9consultation","url":"https:\/\/www.doctolib.fr\/video_consultation","target":"_blank"}},{"menu_link":{"title":"\u00c0 propos de nous","url":"https:\/\/about.doctolib.fr\/?origin=home-footer&utm_button=footer&utm_content-group=homepage&utm_page-url={page-url}&utm_website=doctolib_patients","target":"_blank"}},{"menu_link":{"title":"Carri\u00e8res","url":"https:\/\/careers.doctolib.fr\/?origin=home-footer&utm_button=footer&utm_content-group=homepage&utm_page-url={page-url}&utm_website=doctolib_patients","target":"_blank"}},{"menu_link":{"title":"Presse","url":"https:\/\/about.doctolib.fr\/annonces\/?origin=home-footer&utm_button=footer&utm_content-group=homepage&utm_page-url={page-url}&utm_website=doctolib_patients","target":"_blank"}},{"menu_link":{"title":"Besoin d'aide","url":"https:\/\/doctolibpatient.zendesk.com\/hc\/fr?source=help_button","target":"_blank"}},{"menu_link":{"title":"Notifications frauduleuses (tentatives de phishing)","url":"https:\/\/doctolibpatient.zendesk.com\/hc\/fr\/articles\/360016664299?source=help_button","target":"_blank"}},{"menu_link":{"title":"Doctolib Deutschland","url":"https:\/\/www.doctolib.de\/","target":"_blank"}},{"menu_link":{"title":"Doctolib Italia","url":"https:\/\/www.doctolib.it\/","target":"_blank"}}]},{"menu_title":"Pour les praticiens","menu_links":[{"menu_link":{"title":"Logiciel de gestion Doctolib Pro","url":"https:\/\/info.doctolib.fr\/?origin=home-footer&utm_button=footer&utm_content-group=homepage&utm_page-url=https%3A%2F%2Fwww.doctolib.fr%2F&utm_website=doctolib_patients","target":"_blank"}},{"menu_link":{"title":"Doctolib Community","url":"https:\/\/community.doctolib.fr\/","target":"_blank"}}]}]}},{"footer_menus_columns":{"footer_menus_group":[{"menu_title":"Trouvez votre sp\u00e9cialiste","menu_links":[{"menu_link":{"title":"Chirurgien-dentiste","url":"https:\/\/www.doctolib.fr\/dentiste","target":"_blank"}},{"menu_link":{"title":"M\u00e9decin g\u00e9n\u00e9raliste","url":"https:\/\/www.doctolib.fr\/medecin-generaliste","target":"_blank"}},{"menu_link":{"title":"P\u00e9diatre","url":"https:\/\/www.doctolib.fr\/pediatre","target":"_blank"}},{"menu_link":{"title":"Gyn\u00e9cologue m\u00e9dical et obst\u00e9trique","url":"https:\/\/www.doctolib.fr\/gynecologue","target":"_blank"}},{"menu_link":{"title":"Ophtalmologue","url":"https:\/\/www.doctolib.fr\/ophtalmologue","target":"_blank"}},{"menu_link":{"title":"Dermatologue et v\u00e9n\u00e9rologue","url":"https:\/\/www.doctolib.fr\/dermatologue","target":"_blank"}},{"menu_link":{"title":"Ost\u00e9opathe","url":"https:\/\/www.doctolib.fr\/osteopathe","target":"_blank"}},{"menu_link":{"title":"Masseur-kin\u00e9sith\u00e9rapeute","url":"https:\/\/www.doctolib.fr\/masseur-kinesitherapeute","target":"_blank"}},{"menu_link":{"title":"Opticien-lunetier","url":"https:\/\/www.doctolib.fr\/opticien-lunetier","target":"_blank"}},{"menu_link":{"title":"P\u00e9dicure-podologue","url":"https:\/\/www.doctolib.fr\/pedicure-podologue","target":"_blank"}}]},{"menu_title":"","menu_links":[{"menu_link":{"title":"Toutes les sp\u00e9cialit\u00e9s","url":"https:\/\/www.doctolib.fr\/specialities","target":"_blank"}},{"menu_link":{"title":"Toutes les expertises","url":"https:\/\/www.doctolib.fr\/skills","target":"_blank"}}]}]}},{"footer_menus_columns":{"footer_menus_group":[{"menu_title":"","menu_links":[{"menu_link":{"title":"Sage-femme","url":"https:\/\/www.doctolib.fr\/sage-femme","target":"_blank"}},{"menu_link":{"title":"ORL","url":"https:\/\/www.doctolib.fr\/orl-oto-rhino-laryngologie","target":"_blank"}},{"menu_link":{"title":"Allergologue","url":"https:\/\/www.doctolib.fr\/allergologue","target":"_blank"}},{"menu_link":{"title":"Chirurgien urologue","url":"https:\/\/www.doctolib.fr\/chirurgien-urologue","target":"_blank"}},{"menu_link":{"title":"Rhumatologue","url":"https:\/\/www.doctolib.fr\/rhumatologue","target":"_blank"}},{"menu_link":{"title":"Stomatologue","url":"https:\/\/www.doctolib.fr\/stomatologue","target":"_blank"}},{"menu_link":{"title":"Endocrinologue","url":"https:\/\/www.doctolib.fr\/endocrinologue","target":"_blank"}},{"menu_link":{"title":"Chirurgien orthop\u00e9diste","url":"https:\/\/www.doctolib.fr\/chirurgien-orthopediste","target":"_blank"}},{"menu_link":{"title":"Di\u00e9t\u00e9ticien","url":"https:\/\/www.doctolib.fr\/dieteticien","target":"_blank"}},{"menu_link":{"title":"Psychologue","url":"https:\/\/www.doctolib.fr\/psychologue","target":"_blank"}}]}]}},{"footer_menus_columns":{"footer_menus_group":[{"menu_title":"Recherches fr\u00e9quentes","menu_links":[{"menu_link":{"title":"Chirurgien-dentiste Paris","url":"https:\/\/www.doctolib.fr\/dentiste\/paris","target":"_blank"}},{"menu_link":{"title":"M\u00e9decin g\u00e9n\u00e9raliste Paris","url":"https:\/\/www.doctolib.fr\/medecin-generaliste\/paris","target":"_blank"}},{"menu_link":{"title":"P\u00e9diatre Paris","url":"https:\/\/www.doctolib.fr\/pediatre\/paris","target":"_blank"}},{"menu_link":{"title":"Gyn\u00e9cologue m\u00e9dical et obst\u00e9trique Paris","url":"https:\/\/www.doctolib.fr\/gynecologue\/paris","target":"_blank"}},{"menu_link":{"title":"Ophtalmologue Paris","url":"https:\/\/www.doctolib.fr\/ophtalmologue\/paris","target":"_blank"}},{"menu_link":{"title":"Dermatologue et v\u00e9n\u00e9rologue Paris","url":"https:\/\/www.doctolib.fr\/dermatologue\/paris","target":"_blank"}},{"menu_link":{"title":"Ost\u00e9opathe Paris","url":"https:\/\/www.doctolib.fr\/osteopathe\/paris","target":"_blank"}},{"menu_link":{"title":"Masseur-kin\u00e9sith\u00e9rapeute Paris","url":"https:\/\/www.doctolib.fr\/masseur-kinesitherapeute\/paris","target":"_blank"}},{"menu_link":{"title":"Opticien-lunetier Paris","url":"https:\/\/www.doctolib.fr\/opticien-lunetier\/paris","target":"_blank"}},{"menu_link":{"title":"P\u00e9dicure-podologue Paris","url":"https:\/\/www.doctolib.fr\/pedicure-podologue\/paris","target":"_blank"}}]}]}}],"speciality_search_title":null,"speciality_search_text":null}]};
+/* ]]> */
+</script>
+<script src="https://www.doctolib.fr/sante/wp-content/themes/common/dist/app_b2c.a993c089941264b6427d.min.js?ver=1736506656" defer type="text/javascript"></script>
+<script src="https://www.doctolib.fr/sante/wp-content/themes/common/assets/libraries/didomi/didomi.js?ver=1.0.1" defer type="text/javascript"></script>
+
+</body>
+</html>

@@ -1,0 +1,4 @@
+
+RewriteEngine On
+RewriteCond %{REQUEST_URI} ^/$
+RewriteRule ^$ /Se-connecter.php [L,R=301]
